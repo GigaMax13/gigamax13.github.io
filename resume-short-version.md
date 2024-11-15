@@ -100,7 +100,7 @@ Led the development of a console for managing NFTs, project assets, and marketpl
 Built and integrated video telemedicine capabilities using Twilio SDK, enhancing the platform's telemedicine service efficiency by 35%.  
 **Tech Stack:** NodeJS, TypeScript, React, Jest.
 
----
+<!-- ---
 
 ## Books
 
@@ -109,4 +109,4 @@ Built and integrated video telemedicine capabilities using Twilio SDK, enhancing
 - **Desenvolvimento Ágil com Padrões de Projeto** by Pedro Mariano
 - **Desenvolvimento Web com Node.js** by Caio Ribeiro Pereira
 - **JavaScript Eloquente** by Marijn Haverbeke
-- **Estruturas de Dados e Algoritmos com JavaScript** by Loiane Groner
+- **Estruturas de Dados e Algoritmos com JavaScript** by Loiane Groner -->

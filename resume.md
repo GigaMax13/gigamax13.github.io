@@ -225,7 +225,7 @@ Led a cross-functional team of 20+ engineers in developing a CRM solution for ma
 **Duration:** Jan 2007 - Dec 2017  
 In this period, I contributed to numerous software projects across diverse industries, gaining extensive experience in full-stack development, API design, and building scalable frontend and backend systems. Unfortunately, I do not have detailed data on these projects, as they predate my practice of systematically tracking project details. However, the knowledge and skills acquired during this time have been foundational to my later work.
 
----
+<!-- ---
 
 ## Books
 
@@ -234,4 +234,4 @@ In this period, I contributed to numerous software projects across diverse indus
 - **Desenvolvimento Ágil com Padrões de Projeto** by Pedro Mariano
 - **Desenvolvimento Web com Node.js** by Caio Ribeiro Pereira
 - **JavaScript Eloquente** by Marijn Haverbeke
-- **Estruturas de Dados e Algoritmos com JavaScript** by Loiane Groner
+- **Estruturas de Dados e Algoritmos com JavaScript** by Loiane Groner -->
