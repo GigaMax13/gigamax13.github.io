@@ -1,0 +1,8 @@
+title: "Maximiliano Dalla Porta"
+email: "gigamax13@gmail.com"
+description: "Senior Software Engineer (𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝, 𝚁𝚎𝚊𝚌𝚝, 𝙽𝚘𝚍𝚎, 𝙰𝚆𝚂)"
+baseurl: "" # leave empty for GitHub Pages
+url: "https://GigaMax13.github.io"
+sass:
+  sass_dir: _sass
+  style: compressed

@@ -1,0 +1,46 @@
+name: Generate PDF from Markdown
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - resume-short-version.md
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex wkhtmltopdf
+
+      - name: List files for debugging
+        run: ls -R
+
+      - name: Copy CSS to root directory
+        run: cp ./pandoc-style.css $GITHUB_WORKSPACE/pandoc-style.css
+
+      - name: Generate PDF from Markdown
+        run: pandoc resume-short-version.md -o resume.pdf --css $GITHUB_WORKSPACE/pandoc-style.css --pdf-engine=xelatex --metadata title="Resume"
+
+      - name: Upload PDF to repository
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf
+          path: resume.pdf
+
+      - name: Commit PDF to repository
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git checkout gh-pages
+          git add resume.pdf
+          git commit -m 'Update resume PDF' || echo "No changes to commit"
+          git push --force
