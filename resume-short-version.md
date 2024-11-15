@@ -98,7 +98,7 @@ Led the development of a console for managing NFTs, project assets, and marketpl
 **Company:** CityHealth  
 **Duration:** Sep 2021 - May 2022  
 Built and integrated video telemedicine capabilities using Twilio SDK, enhancing the platform's telemedicine service efficiency by 35%.  
-**Tech Stack:** NodeJS, TypeScript, React, Jest
+**Tech Stack:** NodeJS, TypeScript, React, Jest.
 
 ---
 
