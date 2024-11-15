@@ -16,12 +16,12 @@ Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, a
 <h3>JetBridge<span>Remote — Senior Software Engineer</span></h3>
 
 **FEB 2023 - NOV 2024**  
-Built scalable web applications using React, Next.js, Python, and TypeScript. Utilized Docker, Docker Compose, and Dev Container to streamline development workflows, increasing efficiency by 30%. Employed Testing Library and Playwright for robust front-end testing, ensuring approximately 80% test coverage and high-quality deliverables.
+Built scalable web applications using React, Next.js, Python, and TypeScript. Utilized Docker, Docker Compose, and Dev Container to streamline development workflows, increasing efficiency by 30%. Employed Testing Library and Playwright for robust front-end testing, ensuring 80% test coverage and high-quality deliverables.
 
 <h3>ChainEngine<span>Remote — Senior Software Engineer</span></h3>
 
 **MAY 2022 - JAN 2023**  
-Developed blockchain-integrated applications using Typescript, React, Web3.js, and NestJS, enhancing system performance and scalability. Created a JavaScript and Unity SDKs for game developers, enabling seamless integration with ChainEngine, resulting in a 80% reduction in development time for integrated applications.
+Developed blockchain-integrated applications using TypeScript, React, Web3.js, and NestJS, streamlining integration with ChainEngine, which reduced development time by 80%. Created JavaScript and Unity SDKs for game developers, enabling robust integration capabilities.
 
 <h3>JetBridge<span>Remote — Senior Software Engineer</span></h3>
 
@@ -36,7 +36,7 @@ Led development with Node.js, React, and React Native, integrating Jest for robu
 <h3>DBServer<span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
 
 **MAY 2018 - FEB 2019**  
-Led front-end development with React and Angular 6 & 7, improving UI/UX design and ensuring high-quality code through extensive unit testing with Jest, Jasmine, Mocha, and AVA. Mentored team members on best practices for writing scalable, maintainable code, optimizing both performance and user experience.
+Led front-end development with React and Angular 6 & 7, improving UI/UX design and ensuring high-quality code through extensive unit testing with Jest, Jasmine, Mocha, and AVA. Mentored team members on best practices for writing scalable, maintainable code, optimizing both application performance and user interface design.
 
 <h3>4all Tecnologia<span>Porto Alegre, Brazil — Software Engineering Specialist</span></h3>
 
@@ -97,7 +97,7 @@ I'm a senior software engineer with a passion for learning and building. Outside
 
 ---
 
-## Projects
+<h2 id="projects">Projects</h2>
 
 <h3>Kernel<span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
@@ -120,7 +120,7 @@ Developed a JavaScript SDK that empowered game developers to integrate ChainEngi
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
 **Duration:** Jul 2022 - Sep 2022  
-Created an Unity SDK to facilitate in-game NFT integration and player authentication, leading to a 80% improvement in developer onboarding times.  
+Created an Unity SDK to facilitate in-game NFT integration and player authentication, leading to an 80% improvement in developer onboarding times.  
 **Tech Stack:** C#, Web3.js, Redis, Socket.io, JWT.
 
 <h3>ChainEngine Console<span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>

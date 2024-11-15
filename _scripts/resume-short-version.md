@@ -14,12 +14,12 @@ Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, a
 <h3>JetBridge, <span>Remote — Senior Software Engineer</span></h3>
 
 **FEB 2023 - NOV 2024**  
-Built scalable web applications using React, Next.js, Python, and TypeScript. Utilized Docker, Docker Compose, and Dev Container to streamline development workflows, increasing efficiency by 30%. Employed Testing Library and Playwright for robust front-end testing, ensuring approximately 80% test coverage and high-quality deliverables.
+Built scalable web applications using React, Next.js, Python, and TypeScript. Utilized Docker, Docker Compose, and Dev Container to streamline development workflows, increasing efficiency by 30%. Employed Testing Library and Playwright for robust front-end testing, ensuring 80% test coverage and high-quality deliverables.
 
 <h3>ChainEngine, <span>Remote — Senior Software Engineer</span></h3>
 
 **MAY 2022 - JAN 2023**  
-Developed blockchain-integrated applications using Typescript, React, Web3.js, and NestJS, enhancing system performance and scalability. Created a JavaScript and Unity SDKs for game developers, enabling seamless integration with ChainEngine, resulting in a 80% reduction in development time for integrated applications.
+Developed blockchain-integrated applications using TypeScript, React, Web3.js, and NestJS, streamlining integration with ChainEngine, which reduced development time by 80%. Created JavaScript and Unity SDKs for game developers, enabling robust integration capabilities.
 
 <h3>JetBridge, <span>Remote — Senior Software Engineer</span></h3>
 
@@ -58,7 +58,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 I'm a senior software engineer with a passion for learning and building. Outside of work, I enjoy hands-on hobbies like woodworking, fishing, and practicing archery. I also ride my custom motorcycle, always looking for new challenges and adventures. I thrive in environments where creativity and problem-solving intersect, and I enjoy spending time on my small farm with my dogs, cats, and family.
 
-## Projects
+<h2>Projects - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#projects" target="_blank">here</a>)</em></span></h2>
 
 <h3>Kernel - <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
@@ -73,7 +73,7 @@ Designed and implemented key functionalities for Kernel, a CAD platform speciali
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
 **Duration:** Sep 2022 - Oct 2022  
-Developed a JavaScript SDK that empowered game developers to integrate ChainEngine features seamlessly into their applications. Reduced development time for integrated applications by 80%.  
+Created an Unity SDK to facilitate in-game NFT integration and player authentication, leading to an 80% improvement in developer onboarding times.  
 **Tech Stack:** TypeScript, Rollup.js.
 
 <h3>Unity SDK - <span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
