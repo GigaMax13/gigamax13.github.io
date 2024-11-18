@@ -99,14 +99,3 @@ Led the development of a console for managing NFTs, project assets, and marketpl
 **Duration:** Sep 2021 - May 2022  
 Built and integrated video telemedicine capabilities using Twilio SDK, enhancing the platform's telemedicine service efficiency by 35%.  
 **Tech Stack:** NodeJS, TypeScript, React, Jest.
-
-<!-- ---
-
-## Books
-
-- **Código Limpo: Habilidades Práticas do Agile Software** by Robert C. Martin
-- **Implementando Domain-Driven Design** by Vaughn Vernon
-- **Desenvolvimento Ágil com Padrões de Projeto** by Pedro Mariano
-- **Desenvolvimento Web com Node.js** by Caio Ribeiro Pereira
-- **JavaScript Eloquente** by Marijn Haverbeke
-- **Estruturas de Dados e Algoritmos com JavaScript** by Loiane Groner -->

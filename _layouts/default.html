@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.locale | replace: "_", "-" | default: "en" }}">
+<html lang="{{ page.locale | replace: "_", "-" | default: "en" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,10 +10,6 @@
   <body>
     <div class="container">
       {{ content }}
-
-      <footer>
-        <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">download the resume short version</a>
-      </footer>
     </div>
   </body>
 </html>

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Maximiliano Dalla Porta - Senior Software Engineer"
-locale: en
+title: "Engenheiro de Software Sênior"
+locale: pt-br
 ---
 
 <div class="switch-language">
-  <a class="flag" href="/" title="English version">
+  <a class="flag disabled" href="/" title="English version">
     <img src="{{ '/assets/icons/en.png' | relative_url }}"/>
   </a>
-  <a class="flag disabled" href="/pt_br" title="Versão em Português">
+  <a class="flag" href="/pt_br" title="Versão em Português">
     <img src="{{ '/assets/icons/pt_br.png' | relative_url }}"/>
   </a>
 </div>
@@ -26,5 +26,5 @@ locale: en
 </div>
 
 <footer>
-  <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">download the resume short version</a>
+  <a href="{{ '/assets/pt_br/resume.pdf' | relative_url }}" target="_blank">baixe a versão curta do currículo</a>
 </footer>
