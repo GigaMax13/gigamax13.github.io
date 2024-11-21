@@ -11,25 +11,26 @@ Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, a
 
 <h2>Work Experience - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#work-experience" target="_blank">here</a>)</em></span></h2>
 
-<h3>JetBridge, <span>Remote — Senior Software Engineer</span></h3>
+<h3>JetBridge <span>Remote — Senior Software Engineer</span></h3>
 
 **FEB 2023 - NOV 2024**  
-Built scalable web applications using React, Next.js, Python, and TypeScript. Utilized Docker, Docker Compose, and Dev Container to streamline development workflows, increasing efficiency by 30%. Employed Testing Library and Playwright for robust front-end testing, ensuring 80% test coverage and high-quality deliverables.
+Faced with the challenge of building scalable web applications, I utilized React, Next.js, Python, and TypeScript to deliver efficient and maintainable solutions. By integrating Docker, Docker Compose, and Dev Container, I streamlined local development workflows, improving development efficiency by 30%. To ensure high-quality deliverables, I implemented Testing Library and Playwright, achieving 80% test coverage. This experience underscored the value of leveraging modern tools to enhance both efficiency and reliability in web application development.
 
-<h3>ChainEngine, <span>Remote — Senior Software Engineer</span></h3>
+<h3>ChainEngine <span>Remote — Senior Software Engineer</span></h3>
 
 **MAY 2022 - JAN 2023**  
-Developed blockchain-integrated applications using TypeScript, React, Web3.js, and NestJS, streamlining integration with ChainEngine, which reduced development time by 80%. Created JavaScript and Unity SDKs for game developers, enabling robust integration capabilities.
+I developed tools to streamline blockchain integration for game developers, enhancing efficiency and functionality. I created a JavaScript SDK using TypeScript and Rollup.js, reducing integration time by 80% and enabling seamless crypto wallet functionality for web games. For Unity games, I built a C# SDK that improved developer onboarding times by 80%, facilitating in-game NFT integration and player authentication.  
+Additionally, I developed a console for managing NFTs and project assets, improving marketplace onboarding speed by 25%. Using NestJS, Redis, and Socket.io, I implemented a REST API and messaging system to enable secure player authentication and blockchain transactions, optimizing asset management and integration workflows.
 
-<h3>JetBridge, <span>Remote — Senior Software Engineer</span></h3>
+<h3>JetBridge <span>Remote — Senior Software Engineer</span></h3>
 
 **JAN 2021 - MAY 2022**  
-Engineered scalable applications with Node.js, React, and Typescript. Implemented Docker and Docker Compose for containerization, reducing setup time by 20%. Managed Kubernetes for deployment orchestration and utilized Jest for testing, achieving 70% test coverage for critical components.
+I created and integrated key features to enhance platform efficiency, scalability, and user experience. I built video telemedicine capabilities using the Twilio SDK, reducing call wait times by 35%, and created a REST API with Express.js, Prisma, and PostgreSQL to streamline integration with external booking systems. I also optimized design-to-production workflows by developing CAD add-ins for real-time pricing and manufacturability analysis, increasing orders by 45%. Additionally, I contributed to a system migration from monolithic architecture to microservices, designing GraphQL APIs and micro frontends to improve performance and scalability while maintaining 70% test coverage.
 
-<h3>DBC Company, <span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
+<h3>DBC Company <span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
 
 **FEB 2019 - DEC 2020**  
-Led development with Node.js, React, and React Native of enterprise-level applications with over 100,000 downloads and managed cloud deployments on Google Cloud Platform (GCP).
+As the sole developer in different projects, I designed and delivered multiple high-impact applications, leveraging React Native, Redux, NodeJS, Firebase, and Jest to enhance user and business workflows. I developed a mobile app for iOS and Android that boosted user data gathering by 200%, achieved over 100,000 downloads, and streamlined app deployments on GCP. I also created a punch clock system integrated with an internal social platform, eliminating HR time record update requests entirely. Additionally, I built a web-based SAC system with telephony integration, reducing client complaints about system performance and availability by 25%.
 
 ---
 
@@ -39,13 +40,9 @@ Led development with Node.js, React, and React Native of enterprise-level applic
 **July 2016 - February 2019**  
 MBA focused on Software Engineering using Agile methods.
 
-<!-- Degree paper: case study on Agile team practices. -->
-
 **Computer Science (Bachelor's), University of Pelotas**  
 **March 2009 - July 2015**  
 Degree paper on wireless sensor networks using swarm intelligence, AI.
-
----
 
 ## Languages
 
@@ -54,48 +51,36 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 ---
 
-## Personal Interests
-
-I'm a senior software engineer with a passion for learning and building. Outside of work, I enjoy hands-on hobbies like woodworking, fishing, and practicing archery. I also ride my custom motorcycle, always looking for new challenges and adventures. I thrive in environments where creativity and problem-solving intersect, and I enjoy spending time on my small farm with my dogs, cats, and family.
-
 <h2>Projects - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#projects" target="_blank">here</a>)</em></span></h2>
 
-<h3>Kernel - <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
+<h3>Kernel <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Asimov  
 **Duration:** Feb 2023 - Nov 2024  
-Designed and implemented key functionalities for Kernel, a CAD platform specialized in engineering biology. Enhanced UI/UX design, resulting in a 20% improvement in user engagement. Supervised complex data workflows with Relay and GraphQL, achieving a 30% reduction in data retrieval times. Ensured quality through extensive unit and integration testing, achieving 80% test coverage with Jest and Playwright.  
+Tasked with advancing Kernel, a CAD platform for engineering biology, I designed and implemented critical functionalities usgin TypeScript, Next.js and React that improved usability and boosted user engagement by 20%. Using Relay and GraphQL, I optimized data workflows, reducing retrieval times by 30%. To ensure reliability, I conducted unit and integration testing with Jest and Playwright, achieving 80% test coverage.  
 **Tech Stack:** Next.js, React, TypeScript, Python, PandaCSS, Testing Library and Playwright.
 
-<h3>Frontend SDK - <span>(<a href="https://github.com/chainengine-xyz/chainengine-frontend-sdk" target="_blank">repository</a>)</span></h3>
+<h3>Frontend SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-frontend-sdk" target="_blank">repository</a>)</span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
 **Duration:** Sep 2022 - Oct 2022  
-Created an Unity SDK to facilitate in-game NFT integration and player authentication, leading to an 80% improvement in developer onboarding times.  
+Assigned to enhance the integration of ChainEngine features into applications, I developed a JavaScript SDK that streamlined the process, reducing integration time with blockchain for game developers by 80%. Leveraging Web3.js, I enabled seamless crypto wallet integration, allowing players to log into web games and securely sign transactions, further enhancing functionality and developer productivity.  
 **Tech Stack:** TypeScript, Rollup.js.
 
-<h3>Unity SDK - <span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
+<h3>Unity SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
 **Duration:** Jul 2022 - Sep 2022  
-Created an Unity SDK to facilitate in-game NFT integration and player authentication, leading to a 80% improvement in developer onboarding times.  
-**Tech Stack:** C#, Web3.js, Redis, Socket.IO, JWT.
+Tasked with simplifying in-game NFT integration and player authentication, I developed a Unity SDK that improved developer onboarding times by 80%. This SDK enabled seamless integration with crypto wallets, allowing players to log into Unity games and securely sign transactions, streamlining blockchain functionality for game developers.  
+**Tech Stack:** C#, Unity.
 
-<h3>ChainEngine Console - <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
+<h3>ChainEngine Console <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
 **Duration:** May 2022 - Jul 2022  
-Led the development of a console for managing NFTs, project assets, and marketplace listings, improving marketplace onboarding efficiency.  
-**Tech Stack:** NodeJS, NestJS, TypeScript, React, Jest.
-
-<h3>CityHealth - <span><a href="https://www.cityhealth.com" target="_blank">Telemedicine Platform</a></span></h3>
-
-**Role:** Senior Software Engineer  
-**Company:** CityHealth  
-**Duration:** Sep 2021 - May 2022  
-Built and integrated video telemedicine capabilities using Twilio SDK, enhancing the platform's telemedicine service efficiency by 35%.  
-**Tech Stack:** NodeJS, TypeScript, React, Jest.
+Assigned to optimize asset management workflows, I developed a console for managing NFTs and project assets, resulting in a 25% improvement in marketplace onboarding speed. To power integrations between customer games and their chosen blockchain, I implemented a REST API using NestJS. Additionally, I created a messaging system with NestJS, Redis, and Socket.io to facilitate seamless communication between the API and the game. This system provided robust functionality for player authentication, transaction signing, and blockchain interactions.  
+**Tech Stack:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.
