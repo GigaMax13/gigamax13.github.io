@@ -42,27 +42,27 @@ At this role, I led and contributed to the development of high-performance finan
 <h3>4all Tecnologia<span>Porto Alegre, Brazil — Software Engineering Specialist</span></h3>
 
 **JAN 2017 - MAY 2018**  
-Designed and implemented a Level 3 RESTful API with Node.js, enhancing performance and security through Redis caching. Led the creation of a data lake architecture using MySQL, Redshift, MongoDB, S3, and Elasticsearch. Managed AWS infrastructure, developed serverless applications with Lambda, and delivered integrated solutions using React and React Native for seamless user experiences.
+ I leveraged Node.js, Redis, MySQL, Redshift, MongoDB, S3, Elasticsearch, React, React Native, and Expo to deliver impactful solutions. As a tech lead, I designed and implemented a Level 3 RESTful API, created a data lake architecture enabling advanced analytics with 60% faster data retrieval, and integrated serverless applications with Lambda into web and mobile interfaces. Coordinating a team of 20+ engineers, I delivered a CRM solution for marketing and data enrichment, reducing operational costs by 20%. Additionally, I independently built push notification services from the ground up, providing a scalable system that seamlessly engaged hundreds of thousands of users.
 
 <h3>Younner<span>Porto Alegre, Brazil — Senior Software Engineer</span></h3>
 
 **FEB 2017 - DEC 2017**  
-Architected a Level 2 RESTful API and developed a Node.js-based web scraper for data collection and analysis. Created hybrid and cross-platform applications with Ionic 3, React, React Native, and Angular 4, delivering responsive designs and efficient code. Managed infrastructure deployment on Heroku, ensuring high system availability and scalability.
+Designed and implemented a Level 2 RESTful API and a Node.js-based web scraper for efficient data collection and analysis. Built hybrid and cross-platform applications using Ionic 3, React, React Native, and Angular 4, delivering responsive designs and optimized performance. Deployed and managed infrastructure on Heroku, ensuring scalability and high system availability.
 
 <h3>Object Edge<span>Porto Alegre, Brazil — Software Development Engineer</span></h3>
 
 **JAN 2015 - FEB 2017**  
-Developed custom Oracle Commerce Cloud widgets with Knockout.js and Bootstrap, enhancing eCommerce platform features. Built internal automation tools with Node.js and provided training for developers on front-end and widget development, supporting smooth onboarding and efficient platform use.
+Developed custom Oracle Commerce Cloud widgets using Knockout.js and Bootstrap, enhancing eCommerce platform functionality. Created internal automation tools with Node.js and conducted developer training on front-end and widget development, streamlining onboarding and improving platform efficiency.
 
 <h3>Mariachi Estratégias Digitais<span>Pelotas, Brazil — Software Development Engineer</span></h3>
 
 **FEB 2013 - DEC 2014**  
-Created full-stack applications, developing back-end systems with PHP and front-end solutions with JQuery, Bootstrap, and AngularJS. Built hybrid applications with PhoneGap and contributed to game development using Unity 3D, delivering cross-platform, responsive user interfaces and dynamic features.
+Created with developing full-stack applications, I created back-end systems using PHP and front-end solutions with jQuery, Bootstrap, and AngularJS. I built hybrid applications using PhoneGap and contributed to game development with Unity 3D, delivering cross-platform, responsive user interfaces and dynamic features.
 
 <h3>Caput<span>Brasília, Brazil — Junior Software Development Engineer</span></h3>
 
 **MAY 2011 - FEB 2013**  
-Developed back-end systems with PHP and front-end interactive elements with JQuery and Bootstrap. Supported various client projects, ensuring accessible, dynamic web solutions that met project requirements and enhanced user experience.
+Developed back-end systems using PHP and front-end interactive features with jQuery and Bootstrap, delivering dynamic and accessible web solutions. Ensured client projects met requirements and enhanced user experiences through tailored, responsive designs.
 
 <h3>Self-Employed<span>Porto Alegre, Brazil — Freelance Web Developer</span></h3>
 
@@ -203,15 +203,15 @@ Developed a web-based financial anticipation system with a focus on intuitive UI
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** 4all  
 **Duration:** Dec 2017 - May 2018  
-Led a cross-functional team of 20+ engineers in developing a CRM solution for marketing and data enrichment, leveraging a robust AWS architecture.  
+As a tech lead, I designed and implemented a Level 3 RESTful API with Node.js and Redis caching, improving performance. I led the creation of a data lake architecture using MySQL, Redshift, MongoDB, S3, and Elasticsearch, enabling advanced analytics and reducing data retrieval times by 60%. Managing AWS infrastructure and serverless applications with Lambda, I integrated solutions into React and React Native interfaces, enhancing user experiences. Coordinating a team of 20+ engineers, I delivered a CRM solution for marketing and data enrichment, achieving a 20% reduction in operational costs for the users.  
 **Tech Stack:** AWS (S3, Lambda, SES, SQS), Redshift, Elasticsearch, MongoDB, MySQL, React, Redux, NodeJS, NestJS, Jest.
 
-<h3>Grêmio FBPA Push Notification Service<span><a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
+<h3>Grêmio FBPA App<span>Push Notification Service<a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** 4all
 **Duration:** Dec 2017 Feb 2018  
- Assisted with push notification services for Grêmio FBPA’s app, providing web interfaces and API integrations.
+Independently developed push notification services for Grêmio FBPA’s app, including web interfaces and API integrations using **NodeJS** and **Redis**. Leveraging **React**, **React Native**, and **Expo**, I created a reliable, scalable system to deliver notifications, enabling seamless communication and engaging hundreds of thousands of users with a solution built from the ground up.  
 **Tech Stack:** NodeJS, Redis, React, React Native, Expo, Redux, Jest.
 
 ### Additional Experience — Various Companies
