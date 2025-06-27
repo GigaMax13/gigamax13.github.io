@@ -4,6 +4,10 @@ title: "Maximiliano Dalla Porta - Senior Software Engineer"
 locale: en
 ---
 
+<header>
+  <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">download the resume short version</a>
+</header>
+
 <div class="switch-language">
   <a class="flag" href="/" title="English version">
     <img src="{{ '/assets/icons/en.png' | relative_url }}"/>
@@ -24,7 +28,3 @@ locale: en
   <div>{{ technicalSkills | markdownify }}</div>
   <div>{{ softSkills | markdownify }}</div>
 </div>
-
-<footer>
-  <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">download the resume short version</a>
-</footer>

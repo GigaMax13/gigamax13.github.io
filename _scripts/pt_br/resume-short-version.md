@@ -60,7 +60,15 @@ Tese de graduação sobre redes de sensores sem fio utilizando inteligência de 
 
 <h2>Projetos - <span><em>(últimos 4, a lista completa está <a href="https://gigamax13.github.io/pt_br/#projects" target="_blank">aqui</a>)</em></span></h2>
 
-<h3>Kernel <span><a href="https://www.asimov.com/kernel" target="_blank">Software CAD para Engenharia Biológica</a></span></h3>
+<h3>Sidepro - Cloud Platform<span> - <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+
+**Função:** Engenheiro de Software  
+**Empresa:** Stack.io  
+**Duração:** Dez 2024 - Jun 2025  
+Fui responsável por criar tanto a interface do usuário (frontend) quanto as APIs (backend) de uma plataforma de desenvolvimento nativa em nuvem, voltada para melhorar o fluxo de trabalho dos desenvolvedores e a visibilidade das aplicações. O projeto incluiu a construção de um terminal interativo com WebSockets, permitindo interações em tempo real com aplicações rodando na nuvem. Também desenvolvi módulos com inteligência artificial para inspecionar código-fonte e extrair estrutura do projeto, dependências, variáveis de ambiente e comportamento de inicialização, oferecendo insights imediatos aos desenvolvedores.  
+**Tecnologias:** Next.js, React, TypeScript, WebSockets, APIs de IA, Prometheus, Epinio, Lagos.
+
+<h3>Kernel <span> - <a href="https://www.asimov.com/kernel" target="_blank">Software CAD para Engenharia Biológica</a></span></h3>
 
 **Cargo:** Engenheiro de Software Sênior  
 **Empresa:** Asimov  
@@ -83,11 +91,3 @@ Atribuído para melhorar a integração de recursos do ChainEngine em aplicaçõ
 **Duração:** Jul 2022 - Set 2022  
 Responsável por simplificar a integração de NFTs no jogo e a autenticação de jogadores, desenvolvi um SDK para Unity que melhorou os tempos de onboarding de desenvolvedores em 80%. Esse SDK permitiu uma integração perfeita com carteiras de criptomoedas, possibilitando que jogadores fizessem login em jogos Unity e assinassem transações de forma segura, simplificando a funcionalidade blockchain para desenvolvedores de jogos.  
 **Tecnologias Utilizadas:** C#, Unity.
-
-<h3>ChainEngine Console <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
-
-**Cargo:** Líder Técnico e Engenheiro de Software Sênior  
-**Empresa:** ChainEngine  
-**Duração:** Mai 2022 - Jul 2022  
-Atribuído para otimizar os fluxos de trabalho de gerenciamento de ativos, desenvolvi um console para gerenciar NFTs e ativos de projetos, resultando em uma melhoria de 25% na velocidade de integração ao marketplace. Para alimentar as integrações entre os jogos dos clientes e a blockchain escolhida, implementei uma API REST usando NestJS. Além disso, criei um sistema de mensagens com NestJS, Redis e Socket.io para facilitar a comunicação perfeita entre a API e o jogo. Esse sistema forneceu funcionalidades robustas para autenticação de jogadores, assinatura de transações e interações com blockchain.  
-**Tecnologias Utilizadas:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.

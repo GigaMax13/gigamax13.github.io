@@ -32,11 +32,6 @@ Additionally, I developed a console for managing NFTs and project assets, improv
 **JAN 2021 - MAY 2022**  
 I created and integrated key features to enhance platform efficiency, scalability, and user experience. I built video telemedicine capabilities using the Twilio SDK, reducing call wait times by 35%, and created a REST API with Express.js, Prisma, and PostgreSQL to streamline integration with external booking systems. I also optimized design-to-production workflows by developing CAD add-ins for real-time pricing and manufacturability analysis, increasing orders by 45%. Additionally, I contributed to a system migration from monolithic architecture to microservices, designing GraphQL APIs and micro frontends to improve performance and scalability while maintaining 70% test coverage.
 
-<!-- <h3>DBC Company <span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
-
-**FEB 2019 - DEC 2020**
-As the sole developer in different projects, I designed and delivered multiple high-impact applications, leveraging React Native, Redux, NodeJS, Firebase, and Jest to enhance user and business workflows. I developed a mobile app for iOS and Android that boosted user data gathering by 200%, achieved over 100,000 downloads, and streamlined app deployments on GCP. I also created a punch clock system integrated with an internal social platform, eliminating HR time record update requests entirely. Additionally, I built a web-based SAC system with telephony integration, reducing client complaints about system performance and availability by 25%. -->
-
 ---
 
 ## Education
@@ -60,7 +55,15 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 <h2>Projects - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#projects" target="_blank">here</a>)</em></span></h2>
 
-<h3>Kernel <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
+<h3>Sidepro - Cloud Platform<span> - <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+
+**Role:** Software Engineer  
+**Company:** Stack.io  
+**Duration:** Dec 2024 - Jun 2025  
+I created both the user interface (frontend) and the APIs (backend) for a cloud-native development platform focused on improving developer workflows and application visibility. The project included building a fully interactive terminal interface using WebSockets, enabling real-time interactions with cloud-based applications. I also developed AI-powered modules to inspect source code and extract project structure, dependencies, environment variables, and startup behavior, providing developers with immediate insights.  
+**Tech Stack:** Next.js, React, TypeScript, WebSockets, AI APIs, Prometheus, Epinio, Lagos.
+
+<h3>Kernel <span> - <a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Asimov  
@@ -83,11 +86,3 @@ Assigned to enhance the integration of ChainEngine features into applications, I
 **Duration:** Jul 2022 - Sep 2022  
 Tasked with simplifying in-game NFT integration and player authentication, I developed a Unity SDK that improved developer onboarding times by 80%. This SDK enabled seamless integration with crypto wallets, allowing players to log into Unity games and securely sign transactions, streamlining blockchain functionality for game developers.  
 **Tech Stack:** C#, Unity.
-
-<h3>ChainEngine Console <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
-
-**Role:** Senior Software Engineer Tech Lead  
-**Company:** ChainEngine  
-**Duration:** May 2022 - Jul 2022  
-Assigned to optimize asset management workflows, I developed a console for managing NFTs and project assets, resulting in a 25% improvement in marketplace onboarding speed. To power integrations between customer games and their chosen blockchain, I implemented a REST API using NestJS. Additionally, I created a messaging system with NestJS, Redis, and Socket.io to facilitate seamless communication between the API and the game. This system provided robust functionality for player authentication, transaction signing, and blockchain interactions.  
-**Tech Stack:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.
