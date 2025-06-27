@@ -4,6 +4,10 @@ title: "Engenheiro de Software Sênior"
 locale: pt-br
 ---
 
+<header>
+  <a href="{{ '/assets/pt_br/resume.pdf' | relative_url }}" target="_blank">baixe a versão curta do currículo</a>
+</header>
+
 <div class="switch-language">
   <a class="flag disabled" href="/" title="English version">
     <img src="{{ '/assets/icons/en.png' | relative_url }}"/>
@@ -24,7 +28,3 @@ locale: pt-br
   <div>{{ technicalSkills | markdownify }}</div>
   <div>{{ softSkills | markdownify }}</div>
 </div>
-
-<footer>
-  <a href="{{ '/assets/pt_br/resume.pdf' | relative_url }}" target="_blank">baixe a versão curta do currículo</a>
-</footer>
