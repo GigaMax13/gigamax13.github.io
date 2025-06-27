@@ -2,7 +2,7 @@
 
 **Localização:** Taquara, Rio Grande do Sul - Brasil
 
-Engenheiro de Software Sênior com mais de 17 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiente em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Hábil em frameworks modernos, testes e tecnologias de nuvem, com compromisso com o aprendizado contínuo e excelência técnica.
+Engenheiro de Software Sênior com mais de 18 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiente em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Hábil em frameworks modernos, testes e tecnologias de nuvem, com compromisso com o aprendizado contínuo e excelência técnica.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
@@ -10,6 +10,11 @@ Engenheiro de Software Sênior com mais de 17 anos de experiência em JavaScript
 <a href="https://wa.me/5551996926803" target="_blank">+55 51 99692-6803</a>
 
 <h2>Experiência Profissional - <span><em>(últimos 4, a lista completa está <a href="https://gigamax13.github.io/pt_br/#work-experience" target="_blank">aqui</a>)</em></span></h2>
+
+<h3>Stack.io<span>Remoto — Engenheiro de Software Sênior</span></h3>
+
+**DEZ 2024 - JUN 2025**
+Responsável por construir uma nova plataforma em nuvem do zero, desenvolvi uma aplicação full-stack com Next.js utilizando React, TypeScript e WebSockets. Projetei e implementei uma camada de API para integração com diversos serviços backend, incluindo Epinio, Prometheus e Lagos. Habilitei interações em tempo real com o terminal da aplicação por meio de conexões WebSocket persistentes. Além disso, criei serviços para analisar projetos de código, extraindo estrutura, dependências, variáveis de ambiente e comandos de inicialização — todos impulsionados por AI. Esta função exigiu forte domínio técnico e integração contínua com os serviços da plataforma para oferecer uma experiência fluida aos desenvolvedores.
 
 <h3>JetBridge <span>Remoto — Engenheiro de Software Sênior</span></h3>
 
@@ -27,10 +32,10 @@ Além disso, desenvolvi um console para gerenciamento de NFTs e ativos de projet
 **JAN 2021 - MAI 2022**  
 Criei e integrei recursos-chave para melhorar a eficiência da plataforma, escalabilidade e experiência do usuário. Construi capacidades de telemedicina por vídeo usando o SDK Twilio, reduzindo os tempos de espera em chamadas em 35%, e criei uma API REST com Express.js, Prisma e PostgreSQL para simplificar a integração com sistemas de agendamento externos. Também otimizei fluxos de trabalho de design para produção, desenvolvendo add-ins CAD para análise em tempo real de preços e viabilidade de fabricação, aumentando pedidos em 45%. Além disso, contribuí para a migração de sistema de arquitetura monolítica para microsserviços, projetando APIs GraphQL e micro frontends para melhorar o desempenho e escalabilidade enquanto mantinha 70% de cobertura de testes.
 
-<h3>DBC Company <span>Porto Alegre, Brasil — Engenheiro de Software Sênior Líder Técnico</span></h3>
+<!-- <h3>DBC Company <span>Porto Alegre, Brasil — Engenheiro de Software Sênior Líder Técnico</span></h3>
 
-**FEV 2019 - DEZ 2020**  
-Como único desenvolvedor em diferentes projetos, projetei e entreguei várias aplicações de alto impacto, utilizando React Native, Redux, NodeJS, Firebase e Jest para melhorar fluxos de trabalho de usuários e negócios. Desenvolvi um aplicativo móvel para iOS e Android que aumentou a coleta de dados dos usuários em 200%, alcançou mais de 100.000 downloads e otimizou os deploys de aplicativos no GCP. Também criei um sistema de ponto integrado com uma plataforma social interna, eliminando completamente as solicitações de atualização de registros de tempo no RH. Além disso, construí um sistema SAC baseado na web com integração telefônica, reduzindo reclamações sobre desempenho e disponibilidade do sistema em 25%.
+**FEV 2019 - DEZ 2020**
+Como único desenvolvedor em diferentes projetos, projetei e entreguei várias aplicações de alto impacto, utilizando React Native, Redux, NodeJS, Firebase e Jest para melhorar fluxos de trabalho de usuários e negócios. Desenvolvi um aplicativo móvel para iOS e Android que aumentou a coleta de dados dos usuários em 200%, alcançou mais de 100.000 downloads e otimizou os deploys de aplicativos no GCP. Também criei um sistema de ponto integrado com uma plataforma social interna, eliminando completamente as solicitações de atualização de registros de tempo no RH. Além disso, construí um sistema SAC baseado na web com integração telefônica, reduzindo reclamações sobre desempenho e disponibilidade do sistema em 25%. -->
 
 ---
 

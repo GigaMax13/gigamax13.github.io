@@ -36,4 +36,4 @@ jobs:
         with:
           branch: gh-pages
           folder: _site
-          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          token: ${{ secrets.GITHUB_TOKEN }}

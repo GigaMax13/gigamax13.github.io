@@ -2,7 +2,7 @@
 
 **Location:** Taquara, Rio Grande do Sul - Brazil
 
-Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
+Senior Software Engineer with over 18 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
@@ -10,6 +10,11 @@ Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, a
 <a href="https://wa.me/5551996926803" target="_blank">+55 51 99692-6803</a>
 
 <h2>Work Experience - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#work-experience" target="_blank">here</a>)</em></span></h2>
+
+<h3>Stack.io <span>Remote — Senior Software Engineer</span></h3>
+
+**DEC 2024 - JUN 2025**
+Tasked with building a cloud platform from the ground up, I developed a full-stack Next.js application using React, TypeScript, and WebSockets. I designed and implemented an API layer to integrate with multiple backend services including Epinio, Prometheus, and Lagos. Real-time terminal interactions were enabled through persistent WebSocket connections. Additionally, I engineered services to analyze project codebases, extracting structure, dependency trees, environment variables, and start commands - leveraging AI to enhance automation and insights. This role demanded deep technical ownership and close coordination with platform services to deliver a seamless developer experience.
 
 <h3>JetBridge <span>Remote — Senior Software Engineer</span></h3>
 
@@ -27,10 +32,10 @@ Additionally, I developed a console for managing NFTs and project assets, improv
 **JAN 2021 - MAY 2022**  
 I created and integrated key features to enhance platform efficiency, scalability, and user experience. I built video telemedicine capabilities using the Twilio SDK, reducing call wait times by 35%, and created a REST API with Express.js, Prisma, and PostgreSQL to streamline integration with external booking systems. I also optimized design-to-production workflows by developing CAD add-ins for real-time pricing and manufacturability analysis, increasing orders by 45%. Additionally, I contributed to a system migration from monolithic architecture to microservices, designing GraphQL APIs and micro frontends to improve performance and scalability while maintaining 70% test coverage.
 
-<h3>DBC Company <span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
+<!-- <h3>DBC Company <span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
 
-**FEB 2019 - DEC 2020**  
-As the sole developer in different projects, I designed and delivered multiple high-impact applications, leveraging React Native, Redux, NodeJS, Firebase, and Jest to enhance user and business workflows. I developed a mobile app for iOS and Android that boosted user data gathering by 200%, achieved over 100,000 downloads, and streamlined app deployments on GCP. I also created a punch clock system integrated with an internal social platform, eliminating HR time record update requests entirely. Additionally, I built a web-based SAC system with telephony integration, reducing client complaints about system performance and availability by 25%.
+**FEB 2019 - DEC 2020**
+As the sole developer in different projects, I designed and delivered multiple high-impact applications, leveraging React Native, Redux, NodeJS, Firebase, and Jest to enhance user and business workflows. I developed a mobile app for iOS and Android that boosted user data gathering by 200%, achieved over 100,000 downloads, and streamlined app deployments on GCP. I also created a punch clock system integrated with an internal social platform, eliminating HR time record update requests entirely. Additionally, I built a web-based SAC system with telephony integration, reducing client complaints about system performance and availability by 25%. -->
 
 ---
 
@@ -43,6 +48,8 @@ MBA focused on Software Engineering using Agile methods.
 **Computer Science (Bachelor's), University of Pelotas**  
 **March 2009 - July 2015**  
 Degree paper on wireless sensor networks using swarm intelligence, AI.
+
+<br/>
 
 ## Languages
 

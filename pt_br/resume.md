@@ -2,7 +2,7 @@
 
 **Endereço:** Taquara, Rio Grande do Sul - Brasil
 
-Engenheiro de Software Sênior com mais de 17 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiência em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Habilidade com frameworks modernos, testes e tecnologias de nuvem, com compromisso com aprendizado contínuo e excelência técnica.
+Engenheiro de Software Sênior com mais de 18 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiência em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Habilidade com frameworks modernos, testes e tecnologias de nuvem, com compromisso com aprendizado contínuo e excelência técnica.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
@@ -13,9 +13,14 @@ Engenheiro de Software Sênior com mais de 17 anos de experiência em JavaScript
 
 <h2 id="work-experience">Experiência Profissional</h2>
 
+<h3>Stack.io<span>Remoto — Engenheiro de Software Sênior</span></h3>
+
+**DEZ 2024 - JUN 2025**
+Responsável por construir uma nova plataforma em nuvem do zero, desenvolvi uma aplicação full-stack com Next.js utilizando React, TypeScript e WebSockets. Projetei e implementei uma camada de API para integração com diversos serviços backend, incluindo Epinio, Prometheus e Lagos. Habilitei interações em tempo real com o terminal da aplicação por meio de conexões WebSocket persistentes. Além disso, criei serviços para analisar projetos de código, extraindo estrutura, dependências, variáveis de ambiente e comandos de inicialização — todos impulsionados por inteligência artificial. Esta função exigiu forte domínio técnico e integração contínua com os serviços da plataforma para oferecer uma experiência fluida aos desenvolvedores.
+
 <h3>JetBridge<span>Remoto — Engenheiro de Software Sênior</span></h3>
 
-**FEV 2023 - NOV 2024**  
+**JAN 2023 - NOV 2024**  
 Diante do desafio de construir aplicações web escaláveis, utilizei React, Next.js, Python e TypeScript para entregar soluções eficientes e de fácil manutenção. Ao integrar Docker, Docker Compose e Dev Container, otimizei os fluxos de trabalho de desenvolvimento local, melhorando a eficiência em 30%. Para garantir entregas de alta qualidade, implementei Testing Library e Playwright, alcançando 80% de cobertura de testes. Essa experiência destacou o valor de alavancar ferramentas modernas para melhorar tanto a eficiência quanto a confiabilidade no desenvolvimento de aplicações web.
 
 <h3>ChainEngine<span>Remoto — Engenheiro de Software Sênior</span></h3>
