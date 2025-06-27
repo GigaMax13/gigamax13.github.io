@@ -2,7 +2,7 @@
 
 **Location:** Taquara, Rio Grande do Sul - Brazil
 
-Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
+Senior Software Engineer with over 18 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
@@ -13,9 +13,14 @@ Senior Software Engineer with over 17 years in JavaScript, TypeScript, NodeJS, a
 
 <h2 id="work-experience">Work Experience</h2>
 
+<h3>Stack.io<span>Remote — Senior Software Engineer</span></h3>
+
+**DEC 2024 - JUN 2025**
+Tasked with building a cloud platform from the ground up, I developed a full-stack Next.js application using React, TypeScript, and WebSockets. I designed and implemented an API layer to integrate with multiple backend services including Epinio, Prometheus, and Lagos. Real-time terminal interactions were enabled through persistent WebSocket connections. Additionally, I engineered services to analyze project codebases, extracting structure, dependency trees, environment variables, and start commands - leveraging AI to enhance automation and insights. This role demanded deep technical ownership and close coordination with platform services to deliver a seamless developer experience.
+
 <h3>JetBridge<span>Remote — Senior Software Engineer</span></h3>
 
-**FEB 2023 - NOV 2024**  
+**JAN 2023 - NOV 2024**  
 Faced with the challenge of building scalable web applications, I utilized React, Next.js, Python, and TypeScript to deliver efficient and maintainable solutions. By integrating Docker, Docker Compose, and Dev Container, I streamlined local development workflows, improving development efficiency by 30%. To ensure high-quality deliverables, I implemented Testing Library and Playwright, achieving 80% test coverage. This experience underscored the value of leveraging modern tools to enhance both efficiency and reliability in web application development.
 
 <h3>ChainEngine<span>Remote — Senior Software Engineer</span></h3>
@@ -98,7 +103,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 **Role:** Senior Software Engineer  
 **Company:** Asimov  
-**Duration:** Feb 2023 - Nov 2024  
+**Duration:** Jan 2023 - Nov 2024  
 Tasked with advancing Kernel, a CAD platform for engineering biology, I designed and implemented critical functionalities usgin TypeScript, Next.js and React that improved usability and boosted user engagement by 20%. Using Relay and GraphQL, I optimized data workflows, reducing retrieval times by 30%. To ensure reliability, I conducted unit and integration testing with Jest and Playwright, achieving 80% test coverage.  
 **Tech Stack:** Next.js, React, TypeScript, Python, PandaCSS, Testing Library and Playwright.
 
@@ -122,7 +127,7 @@ Tasked with simplifying in-game NFT integration and player authentication, I dev
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
-**Duration:** May 2022 - Jul 2022  
+**Duration:** May 2022 - Jan 2023  
 Assigned to optimize asset management workflows, I developed a console for managing NFTs and project assets, resulting in a 25% improvement in marketplace onboarding speed. To power integrations between customer games and their chosen blockchain, I implemented a REST API using NestJS. Additionally, I created a messaging system with NestJS, Redis, and Socket.io to facilitate seamless communication between the API and the game. This system provided robust functionality for player authentication, transaction signing, and blockchain interactions.  
 **Tech Stack:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.
 
