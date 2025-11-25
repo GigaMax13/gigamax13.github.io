@@ -99,7 +99,7 @@ Trabalho de conclusão sobre redes de sensores sem fio usando inteligência de e
 
 <h2 id="projects">Projetos</h2>
 
-<h3>Sidepro - Cloud Platform<span> - <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3>Sidepro - Cloud Platform<span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Função:** Engenheiro de Software  
 **Empresa:** Stack.io  
@@ -107,7 +107,7 @@ Trabalho de conclusão sobre redes de sensores sem fio usando inteligência de e
 Fui responsável por criar tanto a interface do usuário (frontend) quanto as APIs (backend) de uma plataforma de desenvolvimento nativa em nuvem, voltada para melhorar o fluxo de trabalho dos desenvolvedores e a visibilidade das aplicações. O projeto incluiu a construção de um terminal interativo com WebSockets, permitindo interações em tempo real com aplicações rodando na nuvem. Também desenvolvi módulos com inteligência artificial para inspecionar código-fonte e extrair estrutura do projeto, dependências, variáveis de ambiente e comportamento de inicialização, oferecendo insights imediatos aos desenvolvedores.  
 **Tecnologias:** Next.js, React, TypeScript, WebSockets, APIs de IA, Prometheus, Epinio, Lagos.
 
-<h3>Kernel<span> - <a href="https://www.asimov.com/kernel" target="_blank">Software CAD para Engenharia Biológica</a></span></h3>
+<h3>Kernel<span> <a href="https://www.asimov.com/kernel" target="_blank">Software CAD para Engenharia Biológica</a></span></h3>
 
 **Cargo:** Engenheiro de Software Sênior  
 **Empresa:** Asimov  
@@ -139,7 +139,7 @@ Responsável por simplificar a integração de NFTs no jogo e a autenticação d
 Atribuído para otimizar os fluxos de trabalho de gerenciamento de ativos, desenvolvi um console para gerenciar NFTs e ativos de projetos, resultando em uma melhoria de 25% na velocidade de integração ao marketplace. Para alimentar as integrações entre os jogos dos clientes e a blockchain escolhida, implementei uma API REST usando NestJS. Além disso, criei um sistema de mensagens com NestJS, Redis e Socket.io para facilitar a comunicação perfeita entre a API e o jogo. Esse sistema forneceu funcionalidades robustas para autenticação de jogadores, assinatura de transações e interações com blockchain.  
 **Tecnologias Utilizadas:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.
 
-<h3>CityHealth<span> - <a href="https://www.cityhealth.com" target="_blank">Plataforma de Telemedicina</a></span></h3>
+<h3>CityHealth<span> <a href="https://www.cityhealth.com" target="_blank">Plataforma de Telemedicina</a></span></h3>
 
 **Cargo:** Engenheiro de Software Sênior  
 **Empresa:** CityHealth  
@@ -147,7 +147,7 @@ Atribuído para otimizar os fluxos de trabalho de gerenciamento de ativos, desen
 Diante da necessidade de aprimorar os serviços de telemedicina, desenvolvi e integrei capacidades de telemedicina por vídeo usando o SDK Twilio, reduzindo os tempos médios de espera em chamadas de vídeo em 35%. Para garantir a conectividade perfeita do sistema, desenvolvi uma API REST usando Express.js, Prisma e PostgreSQL, integrando os sistemas de telemedicina e agendamento com a API da DrChrono. Esse fluxo de trabalho simplificado melhorou significativamente a eficiência da plataforma.  
 **Tecnologias Utilizadas:** TypeScript, React, NodeJS, Express.js, Prisma, PostgreSQL, DrChrono, Jest.
 
-<h3>Xometry<span> - <a href="https://www.xometry.com/cad-add-ins" target="_blank">Add-ins CAD</a></span></h3>
+<h3>Xometry<span> <a href="https://www.xometry.com/cad-add-ins" target="_blank">Add-ins CAD</a></span></h3>
 
 **Cargo:** Engenheiro de Software Sênior  
 **Empresa:** Xometry  
@@ -163,7 +163,7 @@ Atribuído para otimizar fluxos de trabalho de design para produção, desenvolv
 Designado para modernizar a arquitetura, desempenhei um papel fundamental na migração de uma arquitetura monolítica para microsserviços, projetando e implementando APIs GraphQL, o que reduziu a complexidade do sistema e diminuiu o tempo de inatividade das implantações em 400%. Além disso, desenvolvi micro frontends para melhorar a escalabilidade e aumentar o desempenho de recursos-chave, como cotação, carrinho e checkout, mantendo 70% de cobertura de testes para garantir a confiabilidade.  
 **Tecnologias Utilizadas:** TypeScript, NodeJS, GraphQL, React, Jest.
 
-<h3>Rissul Supermarket App<span> - <a href="https://play.google.com/store/apps/details?id=br.com.unidasul.rissul" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/supper-rissul/id1506799864" target="_blank">iOS</a></span></h3>
+<h3>Rissul Supermarket App<span> <a href="https://play.google.com/store/apps/details?id=br.com.unidasul.rissul" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/supper-rissul/id1506799864" target="_blank">iOS</a></span></h3>
 
 **Cargo:** Líder Técnico e Engenheiro de Software Sênior  
 **Empresa:** DBC Company  
@@ -171,7 +171,7 @@ Designado para modernizar a arquitetura, desempenhei um papel fundamental na mig
 Desenvolvi sozinho um aplicativo móvel para iOS e Android, aprimorando os processos de registro de usuários e aumentando a coleta de dados dos usuários em 200%. O app aumentou o engajamento dos clientes por meio de notificações push integradas ao CRM e estratégias de captura de leads, alcançando mais de 100.000 downloads. Otimizei os deploys contínuos na nuvem com Google Cloud Platform (GCP) e implementei estratégias de code push para agilizar a versionamento do aplicativo.  
 **Tecnologias Utilizadas:** React Native, Redux, Styled Components, NodeJS, Redis, Jest.
 
-<h3>ECOS Employee Communication Platform<span> - <a href="https://play.google.com/store/apps/details?id=com.dbccompany.ecosapp" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/ecos-dbc-company/id1478008429" target="_blank">iOS</a></span></h3>
+<h3>ECOS Employee Communication Platform<span> <a href="https://play.google.com/store/apps/details?id=com.dbccompany.ecosapp" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/ecos-dbc-company/id1478008429" target="_blank">iOS</a></span></h3>
 
 **Cargo:** Líder Técnico e Engenheiro de Software Sênior  
 **Empresa:** DBC Company  
@@ -211,7 +211,7 @@ Construí e liderei uma equipe para desenvolver um sistema de conciliação fina
 Desenvolvi um sistema web de antecipação financeira com foco em UI/UX intuitiva e alto desempenho. Utilizando AngularJS, Jasmine, Mocha e Chai, o sistema reduziu os tempos de transação em 30%.  
 **Tecnologias Utilizadas:** AngularJS, Jasmine, Mocha, Chai.
 
-<h3>Iris CRM<span> - <a href="https://somosiris.com" target="_blank">Solução de Marketing Orientada a Dados</a></span></h3>
+<h3>Iris CRM<span> <a href="https://somosiris.com" target="_blank">Solução de Marketing Orientada a Dados</a></span></h3>
 
 **Cargo:** Líder Técnico e Engenheiro de Software Sênior  
 **Empresa:** 4all  
@@ -219,7 +219,7 @@ Desenvolvi um sistema web de antecipação financeira com foco em UI/UX intuitiv
 Como líder técnico, projetei e implementei uma API RESTful de Nível 3 com Node.js e cache Redis, melhorando o desempenho. Liderei a criação de uma arquitetura de data lake usando MySQL, Redshift, MongoDB, S3 e Elasticsearch, permitindo análises avançadas e reduzindo os tempos de recuperação de dados em 60%. Gerenciando a infraestrutura AWS e aplicações serverless com Lambda, integrei soluções em interfaces React e React Native, aprimorando as experiências dos usuários. Coordenando uma equipe de mais de 20 engenheiros, entreguei uma solução CRM para marketing e enriquecimento de dados, alcançando uma redução de 20% nos custos operacionais para os usuários.  
 **Tecnologias Utilizadas:** AWS (S3, Lambda, SES, SQS), Redshift, Elasticsearch, MongoDB, MySQL, React, Redux, NodeJS, NestJS, Jest.
 
-<h3>Grêmio FBPA App<span> - Sistema de Notificações Push<a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
+<h3>Grêmio FBPA App<span> Sistema de Notificações Push <a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
 
 **Cargo:** Líder Técnico e Engenheiro de Software Sênior  
 **Empresa:** 4all  

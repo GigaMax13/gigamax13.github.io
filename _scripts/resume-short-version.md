@@ -55,7 +55,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 <h2>Projects - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#projects" target="_blank">here</a>)</em></span></h2>
 
-<h3>Sidepro - Cloud Platform<span> - <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3>Sidepro - Cloud Platform<span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Role:** Software Engineer  
 **Company:** Stack.io  
@@ -63,7 +63,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 I created both the user interface (frontend) and the APIs (backend) for a cloud-native development platform focused on improving developer workflows and application visibility. The project included building a fully interactive terminal interface using WebSockets, enabling real-time interactions with cloud-based applications. I also developed AI-powered modules to inspect source code and extract project structure, dependencies, environment variables, and startup behavior, providing developers with immediate insights.  
 **Tech Stack:** Next.js, React, TypeScript, WebSockets, AI APIs, Prometheus, Epinio, Lagos.
 
-<h3>Kernel <span> - <a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
+<h3>Kernel <span> <a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Asimov  

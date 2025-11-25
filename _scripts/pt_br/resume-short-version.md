@@ -60,7 +60,7 @@ Tese de graduação sobre redes de sensores sem fio utilizando inteligência de 
 
 <h2>Projetos - <span><em>(últimos 4, a lista completa está <a href="https://gigamax13.github.io/pt_br/#projects" target="_blank">aqui</a>)</em></span></h2>
 
-<h3>Sidepro - Cloud Platform<span> - <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3>Sidepro - Cloud Platform<span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Função:** Engenheiro de Software  
 **Empresa:** Stack.io  
@@ -68,7 +68,7 @@ Tese de graduação sobre redes de sensores sem fio utilizando inteligência de 
 Fui responsável por criar tanto a interface do usuário (frontend) quanto as APIs (backend) de uma plataforma de desenvolvimento nativa em nuvem, voltada para melhorar o fluxo de trabalho dos desenvolvedores e a visibilidade das aplicações. O projeto incluiu a construção de um terminal interativo com WebSockets, permitindo interações em tempo real com aplicações rodando na nuvem. Também desenvolvi módulos com inteligência artificial para inspecionar código-fonte e extrair estrutura do projeto, dependências, variáveis de ambiente e comportamento de inicialização, oferecendo insights imediatos aos desenvolvedores.  
 **Tecnologias:** Next.js, React, TypeScript, WebSockets, APIs de IA, Prometheus, Epinio, Lagos.
 
-<h3>Kernel <span> - <a href="https://www.asimov.com/kernel" target="_blank">Software CAD para Engenharia Biológica</a></span></h3>
+<h3>Kernel <span> <a href="https://www.asimov.com/kernel" target="_blank">Software CAD para Engenharia Biológica</a></span></h3>
 
 **Cargo:** Engenheiro de Software Sênior  
 **Empresa:** Asimov  
