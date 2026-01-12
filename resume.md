@@ -99,7 +99,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 <h2 id="projects">Projects</h2>
 
-<h3>Sidepro - Cloud Platform<span><a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3>Sidepro - Cloud Platform <span><a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Role:** Software Engineer  
 **Company:** Stack.io  
@@ -107,7 +107,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 I created both the user interface (frontend) and the APIs (backend) for a cloud-native development platform focused on improving developer workflows and application visibility. The project included building a fully interactive terminal interface using WebSockets, enabling real-time interactions with cloud-based applications. I also developed AI-powered modules to inspect source code and extract project structure, dependencies, environment variables, and startup behavior, providing developers with immediate insights.  
 **Tech Stack:** Next.js, React, TypeScript, WebSockets, AI APIs, Prometheus, Epinio, Lagos.
 
-<h3>Kernel<span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
+<h3>Kernel <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Asimov  
@@ -115,7 +115,7 @@ I created both the user interface (frontend) and the APIs (backend) for a cloud-
 Tasked with advancing Kernel, a CAD platform for engineering biology, I designed and implemented critical functionalities usgin TypeScript, Next.js and React that improved usability and boosted user engagement by 20%. Using Relay and GraphQL, I optimized data workflows, reducing retrieval times by 30%. To ensure reliability, I conducted unit and integration testing with Jest and Playwright, achieving 80% test coverage.  
 **Tech Stack:** Next.js, React, TypeScript, Python, PandaCSS, Testing Library and Playwright.
 
-<h3>Frontend SDK<span>(<a href="https://github.com/chainengine-xyz/chainengine-frontend-sdk" target="_blank">repository</a>)</span></h3>
+<h3>Frontend SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-frontend-sdk" target="_blank">repository</a>)</span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
@@ -123,7 +123,7 @@ Tasked with advancing Kernel, a CAD platform for engineering biology, I designed
 Assigned to enhance the integration of ChainEngine features into applications, I developed a JavaScript SDK that streamlined the process, reducing integration time with blockchain for game developers by 80%. Leveraging Web3.js, I enabled seamless crypto wallet integration, allowing players to log into web games and securely sign transactions, further enhancing functionality and developer productivity.  
 **Tech Stack:** TypeScript, Rollup.js.
 
-<h3>Unity SDK<span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
+<h3>Unity SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
@@ -131,7 +131,7 @@ Assigned to enhance the integration of ChainEngine features into applications, I
 Tasked with simplifying in-game NFT integration and player authentication, I developed a Unity SDK that improved developer onboarding times by 80%. This SDK enabled seamless integration with crypto wallets, allowing players to log into Unity games and securely sign transactions, streamlining blockchain functionality for game developers.  
 **Tech Stack:** C#, Unity.
 
-<h3>ChainEngine Console<span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
+<h3>ChainEngine Console <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
@@ -139,7 +139,7 @@ Tasked with simplifying in-game NFT integration and player authentication, I dev
 Assigned to optimize asset management workflows, I developed a console for managing NFTs and project assets, resulting in a 25% improvement in marketplace onboarding speed. To power integrations between customer games and their chosen blockchain, I implemented a REST API using NestJS. Additionally, I created a messaging system with NestJS, Redis, and Socket.io to facilitate seamless communication between the API and the game. This system provided robust functionality for player authentication, transaction signing, and blockchain interactions.  
 **Tech Stack:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.
 
-<h3>CityHealth<span><a href="https://www.cityhealth.com" target="_blank">Telemedicine Platform</a></span></h3>
+<h3>CityHealth <span><a href="https://www.cityhealth.com" target="_blank">Telemedicine Platform</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** CityHealth  
@@ -147,7 +147,7 @@ Assigned to optimize asset management workflows, I developed a console for manag
 Faced with the need to enhance telemedicine services, I built and integrated video telemedicine capabilities using the Twilio SDK, reducing average video call wait times by 35%. To ensure seamless system connectivity, I developed a REST API using Express.js, Prisma, and PostgreSQL, integrating the telemedicine and booking systems with DrChrono's API. This streamlined workflow significantly improved platform efficiency.  
 **Tech Stack:** TypeScript, React, NodeJS, Express.js, Prisma, PostgreSQL, DrChrono, Jest.
 
-<h3>Xometry<span><a href="https://www.xometry.com/cad-add-ins" target="_blank">CAD Add-ins</a></span></h3>
+<h3>Xometry <span><a href="https://www.xometry.com/cad-add-ins" target="_blank">CAD Add-ins</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Xometry  
@@ -163,7 +163,7 @@ Assigned to optimize design-to-production workflows, I developed CAD add-ins ena
 Tasked with modernizing the architecture, Played a key role in migrating from a monolithic architecture to microservices, designing and implementing GraphQL APIs, which reduced system complexity and decreased deployment downtime by 400%. Additionally, I developed micro frontends to enhance scalability and boost performance for key features such as quoting, cart, and checkout, maintaining 70% test coverage to ensure reliability.  
 **Tech Stack:** TypeScript, NodeJS, GraphQL, React, Jest.
 
-<h3>Rissul Supermarket App<span><a href="https://play.google.com/store/apps/details?id=br.com.unidasul.rissul" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/supper-rissul/id1506799864" target="_blank">iOS</a></span></h3>
+<h3>Rissul Supermarket App <span><a href="https://play.google.com/store/apps/details?id=br.com.unidasul.rissul" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/supper-rissul/id1506799864" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBC Company  
@@ -171,7 +171,7 @@ Tasked with modernizing the architecture, Played a key role in migrating from a 
 Solely developed a mobile application for iOS and Android, enhancing user registration processes and boosting user data gathering by 200%. The app increased customer engagement through CRM-integrated push notifications and lead capture strategies, achieving over 100,000 downloads. I optimized cloud continuous deployments on Google Cloud Platform (GCP) and implemented code push strategies to streamline app versioning.  
 **Tech Stack:** React Native, Redux, Styled Components, NodeJS, Redis, Jest.
 
-<h3>ECOS Employee Communication Platform<span><a href="https://play.google.com/store/apps/details?id=com.dbccompany.ecosapp" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/ecos-dbc-company/id1478008429" target="_blank">iOS</a></span></h3>
+<h3>ECOS Employee Communication Platform <span><a href="https://play.google.com/store/apps/details?id=com.dbccompany.ecosapp" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/ecos-dbc-company/id1478008429" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBC Company  
@@ -211,7 +211,7 @@ Built and led a team to develop a financial reconciliation system with analytica
 Developed a web-based financial anticipation system with a focus on intuitive UI/UX and high performance. Leveraging AngularJS, Jasmine, Mocha, and Chai, the system reduced transaction times by 30%.  
 **Tech Stack:** AngularJS, Jasmine, Mocha, Chai.
 
-<h3>Iris CRM<span><a href="https://somosiris.com" target="_blank">Data-Driven Marketing Solution</a></span></h3>
+<h3>Iris CRM <span><a href="https://somosiris.com" target="_blank">Data-Driven Marketing Solution</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** 4all  
@@ -219,7 +219,7 @@ Developed a web-based financial anticipation system with a focus on intuitive UI
 As a tech lead, I designed and implemented a Level 3 RESTful API with Node.js and Redis caching, improving performance. I led the creation of a data lake architecture using MySQL, Redshift, MongoDB, S3, and Elasticsearch, enabling advanced analytics and reducing data retrieval times by 60%. Managing AWS infrastructure and serverless applications with Lambda, I integrated solutions into React and React Native interfaces, enhancing user experiences. Coordinating a team of 20+ engineers, I delivered a CRM solution for marketing and data enrichment, achieving a 20% reduction in operational costs for the users.  
 **Tech Stack:** AWS (S3, Lambda, SES, SQS), Redshift, Elasticsearch, MongoDB, MySQL, React, Redux, NodeJS, NestJS, Jest.
 
-<h3>Grêmio FBPA App<span><a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
+<h3>Grêmio FBPA App <span><a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** 4all
@@ -232,6 +232,42 @@ Independently developed push notification services for Grêmio FBPA’s app, inc
 **Role:** Senior Developer  
 **Duration:** Jan 2007 - Dec 2017  
 In this period, I contributed to numerous software projects across diverse industries, gaining extensive experience in full-stack development, API design, and building scalable frontend and backend systems. Unfortunately, I do not have detailed data on these projects, as they predate my practice of systematically tracking project details. However, the knowledge and skills acquired during this time have been foundational to my later work.
+
+---
+
+## Technical Skills
+
+- **JavaScript** - 19 years
+- **HTML** - 19 years
+- **CSS** - 19 years
+- **SASS / LESS** - 16 years
+- **TypeScript** - 14 years
+- **NodeJS** - 12 years
+- **Python** - 9 years
+- **Ruby** - 9 years
+- **React Native** - 9 years
+- **React** - 9 years
+- **Jest** - 9 years
+- **Angular** - 6 years
+- **Redux** - 6 years
+- **AWS** - 6 years
+- **C#** - 5 years
+- **Vue** - 3 years
+- **LangChain** - 3 years
+- **Prompt Engineering** - 3 years
+- **CrewAI** - 2 years
+- **AI SDK** - 1 year
+
+## Soft Skills
+
+- Attention to detail
+- Responsibility
+- Organization
+- Teamwork
+- Leadership
+- Objectivity
+- Autonomy
+- Integrity
 
 <!--
 ## Personal Interests

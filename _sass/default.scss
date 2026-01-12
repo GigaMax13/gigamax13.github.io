@@ -197,3 +197,9 @@ header {
     transform: none;
   }
 }
+
+@media print {
+  .switch-language {
+    display: none;
+  }
+}

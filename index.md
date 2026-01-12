@@ -5,7 +5,8 @@ locale: en
 ---
 
 <header>
-  <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">download the resume short version</a>
+  <a href="{{ '/assets/resume-short.pdf' | relative_url }}" target="_blank">download the resume short version</a> |
+  <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">download the resume full version</a>
 </header>
 
 <div class="switch-language">

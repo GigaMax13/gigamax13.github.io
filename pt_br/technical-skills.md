@@ -1,18 +1,22 @@
 ### Habilidades Técnicas
 
-- **JavaScript** - 18 anos
-- **HTML** - 18 anos
-- **CSS** - 18 anos
-- **SASS / LESS** - 15 anos
-- **TypeScript** - 13 anos
-- **NodeJS** - 11 anos
-- **Python** - 8 anos
-- **Ruby** - 8 anos
-- **React Native** - 8 anos
-- **React** - 8 anos
-- **Jest** - 8 anos
-- **Angular** - 5 anos
-- **Redux** - 5 anos
-- **AWS** - 5 anos
-- **C#** - 4 anos
-- **Vue** - 2 anos
+- **JavaScript** - 19 anos
+- **HTML** - 19 anos
+- **CSS** - 19 anos
+- **SASS / LESS** - 16 anos
+- **TypeScript** - 14 anos
+- **NodeJS** - 12 anos
+- **Python** - 9 anos
+- **Ruby** - 9 anos
+- **React Native** - 9 anos
+- **React** - 9 anos
+- **Jest** - 9 anos
+- **Angular** - 6 anos
+- **Redux** - 6 anos
+- **AWS** - 6 anos
+- **C#** - 5 anos
+- **Vue** - 3 anos
+- **LangChain** - 3 anos
+- **Engenharia de Prompts** - 3 anos
+- **CrewAI** - 2 anos
+- **AI SDK** - 1 ano
