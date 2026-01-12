@@ -235,39 +235,46 @@ In this period, I contributed to numerous software projects across diverse indus
 
 ---
 
-## Technical Skills
-
-- **JavaScript** - 19 years
-- **HTML** - 19 years
-- **CSS** - 19 years
-- **SASS / LESS** - 16 years
-- **TypeScript** - 14 years
-- **NodeJS** - 12 years
-- **Python** - 9 years
-- **Ruby** - 9 years
-- **React Native** - 9 years
-- **React** - 9 years
-- **Jest** - 9 years
-- **Angular** - 6 years
-- **Redux** - 6 years
-- **AWS** - 6 years
-- **C#** - 5 years
-- **Vue** - 3 years
-- **LangChain** - 3 years
-- **Prompt Engineering** - 3 years
-- **CrewAI** - 2 years
-- **AI SDK** - 1 year
-
-## Soft Skills
-
-- Attention to detail
-- Responsibility
-- Organization
-- Teamwork
-- Leadership
-- Objectivity
-- Autonomy
-- Integrity
+<div class="two-columns">
+<div>
+<h2>Technical Skills</h2>
+<ul>
+<li><strong>JavaScript</strong> - 19 years</li>
+<li><strong>HTML</strong> - 19 years</li>
+<li><strong>CSS</strong> - 19 years</li>
+<li><strong>SASS / LESS</strong> - 16 years</li>
+<li><strong>TypeScript</strong> - 14 years</li>
+<li><strong>NodeJS</strong> - 12 years</li>
+<li><strong>Python</strong> - 9 years</li>
+<li><strong>Ruby</strong> - 9 years</li>
+<li><strong>React Native</strong> - 9 years</li>
+<li><strong>React</strong> - 9 years</li>
+<li><strong>Jest</strong> - 9 years</li>
+<li><strong>Angular</strong> - 6 years</li>
+<li><strong>Redux</strong> - 6 years</li>
+<li><strong>AWS</strong> - 6 years</li>
+<li><strong>C#</strong> - 5 years</li>
+<li><strong>Vue</strong> - 3 years</li>
+<li><strong>LangChain</strong> - 3 years</li>
+<li><strong>Prompt Engineering</strong> - 3 years</li>
+<li><strong>CrewAI</strong> - 2 years</li>
+<li><strong>AI SDK</strong> - 1 year</li>
+</ul>
+</div>
+<div>
+<h2>Soft Skills</h2>
+<ul>
+<li>Attention to detail</li>
+<li>Responsibility</li>
+<li>Organization</li>
+<li>Teamwork</li>
+<li>Leadership</li>
+<li>Objectivity</li>
+<li>Autonomy</li>
+<li>Integrity</li>
+</ul>
+</div>
+</div>
 
 <!--
 ## Personal Interests

@@ -5,8 +5,10 @@ locale: pt-br
 ---
 
 <header>
-  <a href="{{ '/assets/pt_br/resume-short.pdf' | relative_url }}" target="_blank">baixe a versão curta do currículo</a> |
-  <a href="{{ '/assets/pt_br/resume.pdf' | relative_url }}" target="_blank">baixe a versão completa do currículo</a>
+  <span>Download -</span>
+  <a href="{{ '/assets/pt_br/resume-short.pdf' | relative_url }}" target="_blank" title="Baixar versão resumida do currículo">[ Currículo Resumido (PDF)</a>
+  <span>|</span>
+  <a href="{{ '/assets/pt_br/resume.pdf' | relative_url }}" target="_blank" title="Baixar versão completa do currículo">Currículo (PDF) ]</a>
 </header>
 
 <div class="switch-language">
@@ -19,13 +21,3 @@ locale: pt-br
 </div>
 
 {% include_relative resume.md %}
-
-{% capture softSkills %}{% include_relative soft-skills.md %}{% endcapture %}
-{% capture technicalSkills %}{% include_relative technical-skills.md %}{% endcapture %}
-
----
-
-<div class="two-columns">
-  <div>{{ technicalSkills | markdownify }}</div>
-  <div>{{ softSkills | markdownify }}</div>
-</div>

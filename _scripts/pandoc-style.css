@@ -75,3 +75,21 @@ ul li {
 @page {
   margin: 1in;
 }
+
+.two-columns {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.two-columns > div {
+  display: table-cell;
+  width: 50%;
+  padding-right: 15px;
+  vertical-align: top;
+}
+
+.two-columns > div:last-child {
+  padding-right: 0;
+  padding-left: 15px;
+}

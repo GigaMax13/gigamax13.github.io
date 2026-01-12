@@ -235,39 +235,46 @@ Neste período, contribui para inúmeros projetos de software em diversos setore
 
 ---
 
-## Habilidades Técnicas
-
-- **JavaScript** - 19 anos
-- **HTML** - 19 anos
-- **CSS** - 19 anos
-- **SASS / LESS** - 16 anos
-- **TypeScript** - 14 anos
-- **NodeJS** - 12 anos
-- **Python** - 9 anos
-- **Ruby** - 9 anos
-- **React Native** - 9 anos
-- **React** - 9 anos
-- **Jest** - 9 anos
-- **Angular** - 6 anos
-- **Redux** - 6 anos
-- **AWS** - 6 anos
-- **C#** - 5 anos
-- **Vue** - 3 anos
-- **LangChain** - 3 anos
-- **Engenharia de Prompts** - 3 anos
-- **CrewAI** - 2 anos
-- **AI SDK** - 1 ano
-
-## Competências Comportamentais
-
-- Atenção aos detalhes
-- Responsabilidade
-- Organização
-- Trabalho em equipe
-- Liderança
-- Objetividade
-- Autonomia
-- Integridade
+<div class="two-columns">
+<div>
+<h2>Habilidades Técnicas</h2>
+<ul>
+<li><strong>JavaScript</strong> - 19 anos</li>
+<li><strong>HTML</strong> - 19 anos</li>
+<li><strong>CSS</strong> - 19 anos</li>
+<li><strong>SASS / LESS</strong> - 16 anos</li>
+<li><strong>TypeScript</strong> - 14 anos</li>
+<li><strong>NodeJS</strong> - 12 anos</li>
+<li><strong>Python</strong> - 9 anos</li>
+<li><strong>Ruby</strong> - 9 anos</li>
+<li><strong>React Native</strong> - 9 anos</li>
+<li><strong>React</strong> - 9 anos</li>
+<li><strong>Jest</strong> - 9 anos</li>
+<li><strong>Angular</strong> - 6 anos</li>
+<li><strong>Redux</strong> - 6 anos</li>
+<li><strong>AWS</strong> - 6 anos</li>
+<li><strong>C#</strong> - 5 anos</li>
+<li><strong>Vue</strong> - 3 anos</li>
+<li><strong>LangChain</strong> - 3 anos</li>
+<li><strong>Engenharia de Prompts</strong> - 3 anos</li>
+<li><strong>CrewAI</strong> - 2 anos</li>
+<li><strong>AI SDK</strong> - 1 ano</li>
+</ul>
+</div>
+<div>
+<h2>Competências Comportamentais</h2>
+<ul>
+<li>Atenção aos detalhes</li>
+<li>Responsabilidade</li>
+<li>Organização</li>
+<li>Trabalho em equipe</li>
+<li>Liderança</li>
+<li>Objetividade</li>
+<li>Autonomia</li>
+<li>Integridade</li>
+</ul>
+</div>
+</div>
 
 <!--
 
@@ -275,6 +282,10 @@ Neste período, contribui para inúmeros projetos de software em diversos setore
 
 ## Interesses Pessoais
 
-Sou um engenheiro de software sênior com uma paixão por aprender e construir. Fora do trabalho, gosto de hobbies práticos como marcenaria, pesca e praticar arco e flecha. Também ando de motocicleta personalizada, sempre em busca de novos desafios e aventuras. Eu prospero em ambientes onde a criatividade e a resolução de problemas se encontram, e gosto de passar o tempo em minha pequena fazenda com meus cães, gatos e minha família.
+Sou um engenheiro de software sênior apaixonado por aprender e construir. Fora do trabalho, gosto de hobbies práticos como marcenaria, pesca e arco e flecha. Também ando de moto customizada, sempre em busca de novos desafios e aventuras. Prospero em ambientes onde a criatividade e a resolução de problemas se encontram e gosto de passar tempo na minha pequena fazenda com meus cachorros, gatos e família.
+
+---
+
+Minha maior conquista profissional é a trajetória que construí ao longo dos anos, moldada pelo meu compromisso com a alta qualidade e reconhecida consistentemente por clientes, fornecedores e colegas de equipe. Tenho orgulho da confiança e do reconhecimento que conquistei daqueles com quem trabalho, pois isso reflete minha dedicação e impacto em cada função. Uma lista dos meus projetos, muitos com links diretos, pode ser encontrada no meu currículo, que fornece mais detalhes sobre minhas contribuições em diversas iniciativas de grande impacto.
 
  -->
