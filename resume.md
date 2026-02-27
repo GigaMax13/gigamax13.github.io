@@ -13,63 +13,63 @@ Senior Software Engineer with over 19 years in JavaScript, TypeScript, NodeJS, a
 
 <h2 id="work-experience">Work Experience</h2>
 
-<h3>Stack.io<span>Remote — Senior Software Engineer</span></h3>
+<h3 id="stack-io">Stack.io<span>Remote — Senior Software Engineer</span></h3>
 
 **DEC 2024 - JUL 2025**
 Tasked with building a cloud platform from the ground up, I developed a full-stack Next.js application using React, TypeScript, and WebSockets. I designed and implemented an API layer to integrate with multiple backend services including Epinio, Prometheus, and Lagos. Real-time terminal interactions were enabled through persistent WebSocket connections. Additionally, I engineered services to analyze project codebases, extracting structure, dependency trees, environment variables, and start commands - leveraging AI to enhance automation and insights. This role demanded deep technical ownership and close coordination with platform services to deliver a seamless developer experience.
 
-<h3>JetBridge<span>Remote — Senior Software Engineer</span></h3>
+<h3 id="jetbridge-2023">JetBridge<span>Remote — Senior Software Engineer</span></h3>
 
 **JAN 2023 - NOV 2024**  
 Faced with the challenge of building scalable web applications, I utilized React, Next.js, Python, and TypeScript to deliver efficient and maintainable solutions. By integrating Docker, Docker Compose, and Dev Container, I streamlined local development workflows, improving development efficiency by 30%. To ensure high-quality deliverables, I implemented Testing Library and Playwright, achieving 80% test coverage. This experience underscored the value of leveraging modern tools to enhance both efficiency and reliability in web application development.
 
-<h3>ChainEngine<span>Remote — Senior Software Engineer</span></h3>
+<h3 id="chainengine">ChainEngine<span>Remote — Senior Software Engineer</span></h3>
 
 **MAY 2022 - JAN 2023**  
 I developed tools to streamline blockchain integration for game developers, enhancing efficiency and functionality. I created a JavaScript SDK using TypeScript and Rollup.js, reducing integration time by 80% and enabling seamless crypto wallet functionality for web games. For Unity games, I built a C# SDK that improved developer onboarding times by 80%, facilitating in-game NFT integration and player authentication.  
 Additionally, I developed a console for managing NFTs and project assets, improving marketplace onboarding speed by 25%. Using NestJS, Redis, and Socket.io, I implemented a REST API and messaging system to enable secure player authentication and blockchain transactions, optimizing asset management and integration workflows.
 
-<h3>JetBridge<span>Remote — Senior Software Engineer</span></h3>
+<h3 id="jetbridge-2021">JetBridge<span>Remote — Senior Software Engineer</span></h3>
 
 **JAN 2021 - MAY 2022**  
 I created and integrated key features to enhance platform efficiency, scalability, and user experience. I built video telemedicine capabilities using the Twilio SDK, reducing call wait times by 35%, and created a REST API with Express.js, Prisma, and PostgreSQL to streamline integration with external booking systems. I also optimized design-to-production workflows by developing CAD add-ins for real-time pricing and manufacturability analysis, increasing orders by 45%. Additionally, I contributed to a system migration from monolithic architecture to microservices, designing GraphQL APIs and micro frontends to improve performance and scalability while maintaining 70% test coverage.
 
-<h3>DBC Company<span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
+<h3 id="dbc-company">DBC Company<span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
 
 **FEB 2019 - DEC 2020**  
 As the sole developer in different projects, I designed and delivered multiple high-impact applications, leveraging React Native, Redux, NodeJS, Firebase, and Jest to enhance user and business workflows. I developed a mobile app for iOS and Android that boosted user data gathering by 200%, achieved over 100,000 downloads, and streamlined app deployments on GCP. I also created a punch clock system integrated with an internal social platform, eliminating HR time record update requests entirely. Additionally, I built a web-based SAC system with telephony integration, reducing client complaints about system performance and availability by 25%.
 
-<h3>DBServer<span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
+<h3 id="dbserver">DBServer<span>Porto Alegre, Brazil — Senior Software Engineer Tech Lead</span></h3>
 
 **MAY 2018 - FEB 2019**  
 At this role, I led and contributed to the development of high-performance financial and administrative web systems using React, Redux, Jest, AngularJS, Power BI, Jasmine, Mocha, and Chai. I directed a team of four engineers to create a mobile-responsive application for viewing and paying traffic tickets, reducing processing times by 40% and achieving 85% user satisfaction. I also spearheaded the development of a financial reconciliation system with analytical dashboards, increasing reporting efficiency by 50% and supporting over 1,000 concurrent business. Additionally, I developed a financial anticipation platform with a focus on UI/UX, reducing transaction times by 30% and improving user retention by 20%.
 
-<h3>4all Tecnologia<span>Porto Alegre, Brazil — Software Engineering Specialist</span></h3>
+<h3 id="4all-tecnologia">4all Tecnologia<span>Porto Alegre, Brazil — Software Engineering Specialist</span></h3>
 
 **JAN 2017 - MAY 2018**  
  I leveraged Node.js, Redis, MySQL, Redshift, MongoDB, S3, Elasticsearch, React, React Native, and Expo to deliver impactful solutions. As a tech lead, I designed and implemented a Level 3 RESTful API, created a data lake architecture enabling advanced analytics with 60% faster data retrieval, and integrated serverless applications with Lambda into web and mobile interfaces. Coordinating a team of 20+ engineers, I delivered a CRM solution for marketing and data enrichment, reducing operational costs by 20%. Additionally, I independently built push notification services from the ground up, providing a scalable system that seamlessly engaged hundreds of thousands of users.
 
-<h3>Younner<span>Porto Alegre, Brazil — Senior Software Engineer</span></h3>
+<h3 id="younner">Younner<span>Porto Alegre, Brazil — Senior Software Engineer</span></h3>
 
 **FEB 2017 - DEC 2017**  
 Designed and implemented a Level 2 RESTful API and a Node.js-based web scraper for efficient data collection and analysis. Built hybrid and cross-platform applications using Ionic 3, React, React Native, and Angular 4, delivering responsive designs and optimized performance. Deployed and managed infrastructure on Heroku, ensuring scalability and high system availability.
 
-<h3>Object Edge<span>Porto Alegre, Brazil — Software Development Engineer</span></h3>
+<h3 id="object-edge">Object Edge<span>Porto Alegre, Brazil — Software Development Engineer</span></h3>
 
 **JAN 2015 - FEB 2017**  
 Developed custom Oracle Commerce Cloud widgets using Knockout.js and Bootstrap, enhancing eCommerce platform functionality. Created internal automation tools with Node.js and conducted developer training on front-end and widget development, streamlining onboarding and improving platform efficiency.
 
-<h3>Mariachi Estratégias Digitais<span>Pelotas, Brazil — Software Development Engineer</span></h3>
+<h3 id="mariachi-estrategias-digitais">Mariachi Estratégias Digitais<span>Pelotas, Brazil — Software Development Engineer</span></h3>
 
 **FEB 2013 - DEC 2014**  
 Created with developing full-stack applications, I created back-end systems using PHP and front-end solutions with jQuery, Bootstrap, and AngularJS. I built hybrid applications using PhoneGap and contributed to game development with Unity 3D, delivering cross-platform, responsive user interfaces and dynamic features.
 
-<h3>Caput<span>Brasília, Brazil — Junior Software Development Engineer</span></h3>
+<h3 id="caput">Caput<span>Brasília, Brazil — Junior Software Development Engineer</span></h3>
 
 **MAY 2011 - FEB 2013**  
 Developed back-end systems using PHP and front-end interactive features with jQuery and Bootstrap, delivering dynamic and accessible web solutions. Ensured client projects met requirements and enhanced user experiences through tailored, responsive designs.
 
-<h3>Self-Employed<span>Porto Alegre, Brazil — Freelance Web Developer</span></h3>
+<h3 id="self-employed">Self-Employed<span>Porto Alegre, Brazil — Freelance Web Developer</span></h3>
 
 **JAN 2007 - APR 2011**  
 Built custom back-end solutions using PHP and crafted responsive front-end designs with JQuery and Bootstrap. Delivered comprehensive web applications for diverse clients, focusing on accessibility, functionality, and user-friendly designs.
@@ -99,7 +99,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 <h2 id="projects">Projects</h2>
 
-<h3>Sidepro - Cloud Platform <span><a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3 id="sidepro-cloud-platform">Sidepro - Cloud Platform <span><a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Role:** Software Engineer  
 **Company:** Stack.io  
@@ -107,7 +107,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 I created both the user interface (frontend) and the APIs (backend) for a cloud-native development platform focused on improving developer workflows and application visibility. The project included building a fully interactive terminal interface using WebSockets, enabling real-time interactions with cloud-based applications. I also developed AI-powered modules to inspect source code and extract project structure, dependencies, environment variables, and startup behavior, providing developers with immediate insights.  
 **Tech Stack:** Next.js, React, TypeScript, WebSockets, AI APIs, Prometheus, Epinio, Lagos.
 
-<h3>Kernel <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
+<h3 id="kernel">Kernel <span><a href="https://www.asimov.com/kernel" target="_blank">CAD Software for Engineering Biology</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Asimov  
@@ -115,7 +115,7 @@ I created both the user interface (frontend) and the APIs (backend) for a cloud-
 Tasked with advancing Kernel, a CAD platform for engineering biology, I designed and implemented critical functionalities usgin TypeScript, Next.js and React that improved usability and boosted user engagement by 20%. Using Relay and GraphQL, I optimized data workflows, reducing retrieval times by 30%. To ensure reliability, I conducted unit and integration testing with Jest and Playwright, achieving 80% test coverage.  
 **Tech Stack:** Next.js, React, TypeScript, Python, PandaCSS, Testing Library and Playwright.
 
-<h3>Frontend SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-frontend-sdk" target="_blank">repository</a>)</span></h3>
+<h3 id="frontend-sdk">Frontend SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-frontend-sdk" target="_blank">repository</a>)</span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
@@ -123,7 +123,7 @@ Tasked with advancing Kernel, a CAD platform for engineering biology, I designed
 Assigned to enhance the integration of ChainEngine features into applications, I developed a JavaScript SDK that streamlined the process, reducing integration time with blockchain for game developers by 80%. Leveraging Web3.js, I enabled seamless crypto wallet integration, allowing players to log into web games and securely sign transactions, further enhancing functionality and developer productivity.  
 **Tech Stack:** TypeScript, Rollup.js.
 
-<h3>Unity SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
+<h3 id="unity-sdk">Unity SDK <span>(<a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">repository</a>)</span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
@@ -131,7 +131,7 @@ Assigned to enhance the integration of ChainEngine features into applications, I
 Tasked with simplifying in-game NFT integration and player authentication, I developed a Unity SDK that improved developer onboarding times by 80%. This SDK enabled seamless integration with crypto wallets, allowing players to log into Unity games and securely sign transactions, streamlining blockchain functionality for game developers.  
 **Tech Stack:** C#, Unity.
 
-<h3>ChainEngine Console <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
+<h3 id="chainengine-console">ChainEngine Console <span><a href="https://console.chainengine.xyz" target="_blank">console.chainengine.xyz</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** ChainEngine  
@@ -139,7 +139,7 @@ Tasked with simplifying in-game NFT integration and player authentication, I dev
 Assigned to optimize asset management workflows, I developed a console for managing NFTs and project assets, resulting in a 25% improvement in marketplace onboarding speed. To power integrations between customer games and their chosen blockchain, I implemented a REST API using NestJS. Additionally, I created a messaging system with NestJS, Redis, and Socket.io to facilitate seamless communication between the API and the game. This system provided robust functionality for player authentication, transaction signing, and blockchain interactions.  
 **Tech Stack:** TypeScript, NodeJS, NestJS, Redis, MongoDB, Socket.io, JWT, React, Jest.
 
-<h3>CityHealth <span><a href="https://www.cityhealth.com" target="_blank">Telemedicine Platform</a></span></h3>
+<h3 id="cityhealth">CityHealth <span><a href="https://www.cityhealth.com" target="_blank">Telemedicine Platform</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** CityHealth  
@@ -147,7 +147,7 @@ Assigned to optimize asset management workflows, I developed a console for manag
 Faced with the need to enhance telemedicine services, I built and integrated video telemedicine capabilities using the Twilio SDK, reducing average video call wait times by 35%. To ensure seamless system connectivity, I developed a REST API using Express.js, Prisma, and PostgreSQL, integrating the telemedicine and booking systems with DrChrono's API. This streamlined workflow significantly improved platform efficiency.  
 **Tech Stack:** TypeScript, React, NodeJS, Express.js, Prisma, PostgreSQL, DrChrono, Jest.
 
-<h3>Xometry <span><a href="https://www.xometry.com/cad-add-ins" target="_blank">CAD Add-ins</a></span></h3>
+<h3 id="xometry">Xometry <span><a href="https://www.xometry.com/cad-add-ins" target="_blank">CAD Add-ins</a></span></h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Xometry  
@@ -155,7 +155,7 @@ Faced with the need to enhance telemedicine services, I built and integrated vid
 Assigned to optimize design-to-production workflows, I developed CAD add-ins enabling real-time pricing and manufacturability analysis. This innovation reduced friction between builders and manufacturers, leading to a 45% increase in orders by simplifying the quoting and part-ordering processes.  
 **Tech Stack:** TypeScript, React, various CAD SDKs, Jest.
 
-### Monolith Migration to Microservices
+<h3 id="monolith-migration-to-microservices">Monolith Migration to Microservices</h3>
 
 **Role:** Senior Software Engineer  
 **Company:** Xometry  
@@ -163,7 +163,7 @@ Assigned to optimize design-to-production workflows, I developed CAD add-ins ena
 Tasked with modernizing the architecture, Played a key role in migrating from a monolithic architecture to microservices, designing and implementing GraphQL APIs, which reduced system complexity and decreased deployment downtime by 400%. Additionally, I developed micro frontends to enhance scalability and boost performance for key features such as quoting, cart, and checkout, maintaining 70% test coverage to ensure reliability.  
 **Tech Stack:** TypeScript, NodeJS, GraphQL, React, Jest.
 
-<h3>Rissul Supermarket App <span><a href="https://play.google.com/store/apps/details?id=br.com.unidasul.rissul" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/supper-rissul/id1506799864" target="_blank">iOS</a></span></h3>
+<h3 id="rissul-supermarket-app">Rissul Supermarket App <span><a href="https://play.google.com/store/apps/details?id=br.com.unidasul.rissul" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/supper-rissul/id1506799864" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBC Company  
@@ -171,7 +171,7 @@ Tasked with modernizing the architecture, Played a key role in migrating from a 
 Solely developed a mobile application for iOS and Android, enhancing user registration processes and boosting user data gathering by 200%. The app increased customer engagement through CRM-integrated push notifications and lead capture strategies, achieving over 100,000 downloads. I optimized cloud continuous deployments on Google Cloud Platform (GCP) and implemented code push strategies to streamline app versioning.  
 **Tech Stack:** React Native, Redux, Styled Components, NodeJS, Redis, Jest.
 
-<h3>ECOS Employee Communication Platform <span><a href="https://play.google.com/store/apps/details?id=com.dbccompany.ecosapp" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/ecos-dbc-company/id1478008429" target="_blank">iOS</a></span></h3>
+<h3 id="ecos-employee-communication-platform">ECOS Employee Communication Platform <span><a href="https://play.google.com/store/apps/details?id=com.dbccompany.ecosapp" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/ecos-dbc-company/id1478008429" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBC Company  
@@ -179,7 +179,7 @@ Solely developed a mobile application for iOS and Android, enhancing user regist
 Independently developed ECOS, a punch clock system that eliminated HR requests for time record updates, reducing such requests by 100%. The platform also served as an internal social network, leveraging Google Cloud's Firebase services for seamless architecture and performance.  
 **Tech Stack:** React Native, Redux, NodeJS, Firebase, Jest.
 
-### SAC Web System
+<h3 id="sac-web-system">SAC Web System</h3>
 
 **Role:** Senior Software Engineer Tech Lead
 **Company:** DBC Company  
@@ -187,7 +187,7 @@ Independently developed ECOS, a punch clock system that eliminated HR requests f
 Built a web-based SAC system integrating telephony services to improve customer support operations. This system reduced client complaints about performance and availability by 25%, significantly enhancing reliability and user satisfaction.  
 **Tech Stack:** React, Redux, NodeJS, Jest.
 
-### DETRAN RS - Digital Traffic Ticket System
+<h3 id="detran-rs">DETRAN RS - Digital Traffic Ticket System</h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBServer  
@@ -195,7 +195,7 @@ Built a web-based SAC system integrating telephony services to improve customer 
 Led a team of 4 engineers to build a mobile-responsive, performance-optimized web app for viewing and paying traffic tickets. Led a team of four engineers to develop a mobile-responsive web application for viewing and paying traffic tickets. Using React, Redux, and Jest, the system optimized performance, reducing ticket processing times by 40% and achieving a 85% user satisfaction rate.  
 **Tech Stack:** React, Redux, Jest.
 
-### Financial Conciliator System
+<h3 id="financial-conciliator-system">Financial Conciliator System</h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBServer  
@@ -203,7 +203,7 @@ Led a team of 4 engineers to build a mobile-responsive, performance-optimized we
 Built and led a team to develop a financial reconciliation system with analytical dashboards, using AngularJS, Power BI, Jasmine, Mocha, and Chai. The platform increased reporting efficiency by 50% and provided actionable insights for user engagement, supporting over 1,000 concurrent business without performance degradation.  
 **Tech Stack:** AngularJS, Power BI, Jasmine, Mocha, Chai.
 
-### Financial Forwarder System
+<h3 id="financial-forwarder-system">Financial Forwarder System</h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** DBServer  
@@ -211,7 +211,7 @@ Built and led a team to develop a financial reconciliation system with analytica
 Developed a web-based financial anticipation system with a focus on intuitive UI/UX and high performance. Leveraging AngularJS, Jasmine, Mocha, and Chai, the system reduced transaction times by 30%.  
 **Tech Stack:** AngularJS, Jasmine, Mocha, Chai.
 
-<h3>Iris CRM <span><a href="https://somosiris.com" target="_blank">Data-Driven Marketing Solution</a></span></h3>
+<h3 id="iris-crm">Iris CRM <span><a href="https://somosiris.com" target="_blank">Data-Driven Marketing Solution</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** 4all  
@@ -219,7 +219,7 @@ Developed a web-based financial anticipation system with a focus on intuitive UI
 As a tech lead, I designed and implemented a Level 3 RESTful API with Node.js and Redis caching, improving performance. I led the creation of a data lake architecture using MySQL, Redshift, MongoDB, S3, and Elasticsearch, enabling advanced analytics and reducing data retrieval times by 60%. Managing AWS infrastructure and serverless applications with Lambda, I integrated solutions into React and React Native interfaces, enhancing user experiences. Coordinating a team of 20+ engineers, I delivered a CRM solution for marketing and data enrichment, achieving a 20% reduction in operational costs for the users.  
 **Tech Stack:** AWS (S3, Lambda, SES, SQS), Redshift, Elasticsearch, MongoDB, MySQL, React, Redux, NodeJS, NestJS, Jest.
 
-<h3>Grêmio FBPA App <span><a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
+<h3 id="gremio-fbpa-app">Grêmio FBPA App <span><a href="https://play.google.com/store/apps/details?id=net.gremiofbpa" target="_blank">Android</a> <a href="https://apps.apple.com/us/app/gr%C3%AAmio-fbpa-oficial/id1057689942" target="_blank">iOS</a></span></h3>
 
 **Role:** Senior Software Engineer Tech Lead  
 **Company:** 4all
@@ -227,7 +227,7 @@ As a tech lead, I designed and implemented a Level 3 RESTful API with Node.js an
 Independently developed push notification services for Grêmio FBPA’s app, including web interfaces and API integrations using **NodeJS** and **Redis**. Leveraging **React**, **React Native**, and **Expo**, I created a reliable, scalable system to deliver notifications, enabling seamless communication and engaging hundreds of thousands of users with a solution built from the ground up.  
 **Tech Stack:** NodeJS, Redis, React, React Native, Expo, Redux, Jest.
 
-### Additional Experience - Various Companies
+<h3 id="additional-experience">Additional Experience - Various Companies</h3>
 
 **Role:** Senior Developer  
 **Duration:** Jan 2007 - Dec 2017  
