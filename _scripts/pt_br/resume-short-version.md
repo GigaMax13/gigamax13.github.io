@@ -9,9 +9,19 @@ Engenheiro de Software Sênior com mais de 19 anos de experiência em JavaScript
 <a href="mailto:gigamax13@gmail.com" target="_blank">gigamax13@gmail.com</a> |
 <a href="https://wa.me/5551996926803" target="_blank">+55 51 99692-6803</a>
 
-<h2>Experiência Profissional - <span><em>(últimos 4, a lista completa está <a href="https://gigamax13.github.io/pt_br/#work-experience" target="_blank">aqui</a>)</em></span></h2>
+<h2>Experiência Profissional - <span><em>(últimos 6, a lista completa está <a href="https://gigamax13.github.io/pt_br/#work-experience" target="_blank">aqui</a>)</em></span></h2>
 
-<h3>Stack.io<span>Remoto — Engenheiro de Software Sênior</span></h3>
+<h3>G2i <span>Remoto - Engenheiro de Software Sênior</span></h3>
+
+**OUT 2025 - Atual**  
+Engenheiro de Software Sênior freelancer pela plataforma G2i. As atuações abrangem um marketplace de colaboração entre influenciadores e pequenos negócios, uma ferramenta de autoria estruturada de currículo que organiza conteúdo educacional em hierarquia manuscrito/capítulo/aula/página, com vínculo a padrões educacionais e objetivos de aprendizagem, frontend e APIs dentro de grandes plataformas de tecnologia consolidadas, e um construtor visual de sites no-code que compila os designs dos usuários em sites responsivos prontos para deploy. Stack cobre TypeScript, React, Next.js, Node.js, Tailwind CSS, MongoDB, PostgreSQL e AWS, com IA integrada aos fluxos de produto para geração de conteúdo, extração de dados estruturados e assistência de edição in-app.
+
+<h3>Toptal <span>Remoto - Engenheiro de Software Sênior</span></h3>
+
+**JAN 2025 - Atual**  
+Engenheiro de Software Sênior freelancer pela rede Toptal, em contratos de curta e média duração. A entrega mais recente é um SaaS para operadores de docas e estaleiros que modela embarcações, atracações, agendamento e status operacional com atualizações em tempo real e fluxos por perfil de usuário. Atuações anteriores incluíram um dashboard analítico interno para operações, um portal de cliente com cobrança por assinatura, e a modernização de uma API migrando endpoints legados para um serviço Node.js tipado com testes de contrato. Stack cobre React, Node.js, TypeScript, Next.js, Tailwind CSS, PostgreSQL, MongoDB, AWS e GCP, com IA usada para encurtar o ciclo de desenvolvimento (geração de código, geração de testes, modelagem de schemas).
+
+<h3>Stack.io <span>Remoto — Engenheiro de Software Sênior</span></h3>
 
 **DEZ 2024 - JUL 2025**
 Responsável por construir uma nova plataforma em nuvem do zero, desenvolvi uma aplicação full-stack com Next.js utilizando React, TypeScript e WebSockets. Projetei e implementei uma camada de API para integração com diversos serviços backend, incluindo Epinio, Prometheus e Lagos. Habilitei interações em tempo real com o terminal da aplicação por meio de conexões WebSocket persistentes. Além disso, criei serviços para analisar projetos de código, extraindo estrutura, dependências, variáveis de ambiente e comandos de inicialização — todos impulsionados por AI. Esta função exigiu forte domínio técnico e integração contínua com os serviços da plataforma para oferecer uma experiência fluida aos desenvolvedores.
@@ -60,7 +70,7 @@ Tese de graduação sobre redes de sensores sem fio utilizando inteligência de 
 
 <h2>Projetos - <span><em>(últimos 4, a lista completa está <a href="https://gigamax13.github.io/pt_br/#projects" target="_blank">aqui</a>)</em></span></h2>
 
-<h3>Sidepro - Cloud Platform<span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3>Sidepro - Cloud Platform <span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Função:** Engenheiro de Software  
 **Empresa:** Stack.io  

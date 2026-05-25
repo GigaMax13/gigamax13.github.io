@@ -9,7 +9,17 @@ Senior Software Engineer with over 19 years in JavaScript, TypeScript, NodeJS, a
 <a href="mailto:gigamax13@gmail.com" target="_blank">gigamax13@gmail.com</a> |
 <a href="https://wa.me/5551996926803" target="_blank">+55 51 99692-6803</a>
 
-<h2>Work Experience - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#work-experience" target="_blank">here</a>)</em></span></h2>
+<h2>Work Experience - <span><em>(last 6, the full list is <a href="https://gigamax13.github.io/#work-experience" target="_blank">here</a>)</em></span></h2>
+
+<h3>G2i <span>Remote - Senior Software Engineer</span></h3>
+
+**OCT 2025 - Present**  
+Freelance Senior Software Engineer through G2i. Project work spans an influencer-to-small-business collaboration marketplace, a structured curriculum authoring tool that organizes educational content into a manuscript/chapter/lesson/page hierarchy with standards and learning-objective tagging, frontend and API features inside large established tech platforms, and a no-code visual website builder that compiles user designs into responsive deployable sites. Tech stack covers TypeScript, React, Next.js, Node.js, Tailwind CSS, MongoDB, PostgreSQL, and AWS, with AI integrated into product flows for content generation, structured data extraction, and in-app authoring assistance.
+
+<h3>Toptal <span>Remote - Senior Software Engineer</span></h3>
+
+**JAN 2025 - Present**  
+Freelance Senior Software Engineer through Toptal on short and mid-term contracts. Most recent build is a SaaS for docks and shipyards operators that models vessels, berths, scheduling, and operational status with live updates and role-based workflows. Earlier engagements covered an internal operations analytics dashboard, a customer-facing subscription billing portal, and an API modernization that migrated legacy endpoints onto a typed Node.js service with contract tests. Tech stack covers React, Node.js, TypeScript, Next.js, Tailwind CSS, PostgreSQL, MongoDB, AWS, and GCP, with AI used to shorten the build loop (codegen, test generation, schema drafting).
 
 <h3>Stack.io <span>Remote — Senior Software Engineer</span></h3>
 
@@ -55,7 +65,7 @@ Degree paper on wireless sensor networks using swarm intelligence, AI.
 
 <h2>Projects - <span><em>(last 4, the full list is <a href="https://gigamax13.github.io/#projects" target="_blank">here</a>)</em></span></h2>
 
-<h3>Sidepro - Cloud Platform<span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
+<h3>Sidepro - Cloud Platform <span> <a href="https://platform.beta.sidepro.app" target="_blank">Sidepro</a></span></h3>
 
 **Role:** Software Engineer  
 **Company:** Stack.io  

@@ -1,0 +1,936 @@
+{
+  "version": 1,
+  "lastSync": "2026-05-13T21:34:27.586916+00:00",
+  "files": {
+    ".agents/skills/_rules/code-quality.md": {
+      "hash": "443dd23b84a9",
+      "target": ".claude/skills/_rules/code-quality.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/commit.md": {
+      "hash": "fd0849e0106b",
+      "target": ".claude/skills/_rules/commit.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/database.md": {
+      "hash": "29deba55103d",
+      "target": ".claude/skills/_rules/database.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/flow.md": {
+      "hash": "29524c40380c",
+      "target": ".claude/skills/_rules/flow.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/go.md": {
+      "hash": "76d57e83441f",
+      "target": ".claude/skills/_rules/go.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/guard-clauses.md": {
+      "hash": "3267dfed2376",
+      "target": ".claude/skills/_rules/guard-clauses.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/pr.md": {
+      "hash": "43cd23a38c4f",
+      "target": ".claude/skills/_rules/pr.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/project-CURB.md": {
+      "hash": "234deb3bda1d",
+      "target": ".claude/skills/_rules/project-CURB.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/project-agents.md": {
+      "hash": "32a059dff5f2",
+      "target": ".claude/skills/_rules/project-agents.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/project-arena-tcg.md": {
+      "hash": "ed582ad64398",
+      "target": ".claude/skills/_rules/project-arena-tcg.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/project-zero-horizon.md": {
+      "hash": "9aa026841248",
+      "target": ".claude/skills/_rules/project-zero-horizon.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/python.md": {
+      "hash": "09690b9b8729",
+      "target": ".claude/skills/_rules/python.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/react.md": {
+      "hash": "61a3c401cdf8",
+      "target": ".claude/skills/_rules/react.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/rust.md": {
+      "hash": "de1bd8feef80",
+      "target": ".claude/skills/_rules/rust.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/security.md": {
+      "hash": "cd2390cafde3",
+      "target": ".claude/skills/_rules/security.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/tdd.md": {
+      "hash": "50cf11f10ce8",
+      "target": ".claude/skills/_rules/tdd.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/_rules/typescript.md": {
+      "hash": "648207fb1be5",
+      "target": ".claude/skills/_rules/typescript.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/check-phase/SKILL.md": {
+      "hash": "752c9461364d",
+      "target": ".claude/skills/check-phase/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/cleanup/SKILL.md": {
+      "hash": "a3234c09c59d",
+      "target": ".claude/skills/cleanup/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/commit-interactive/SKILL.md": {
+      "hash": "a1e2af63740c",
+      "target": ".claude/skills/commit-interactive/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/commit-workflow/SKILL.md": {
+      "hash": "5d93e9ff9a4e",
+      "target": ".claude/skills/commit-workflow/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/discover-tests/SKILL.md": {
+      "hash": "c3e93472f633",
+      "target": ".claude/skills/discover-tests/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/do-development/SKILL.md": {
+      "hash": "d0dd1d8405c6",
+      "target": ".claude/agents/do-development.md",
+      "transform": "agent-transform"
+    },
+    "_generated/do-development-wrapper": {
+      "hash": "526f52e48957",
+      "target": ".claude/skills/do-development/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/do-task/SKILL.md": {
+      "hash": "e71c2d5d3530",
+      "target": ".claude/agents/do-task.md",
+      "transform": "agent-transform"
+    },
+    "_generated/do-task-wrapper": {
+      "hash": "37ed79c8fd3a",
+      "target": ".claude/skills/do-task/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/find-task/SKILL.md": {
+      "hash": "5bceb279afab",
+      "target": ".claude/skills/find-task/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/fix-review/SKILL.md": {
+      "hash": "24edc1fad48e",
+      "target": ".claude/agents/fix-review.md",
+      "transform": "agent-transform"
+    },
+    "_generated/fix-review-wrapper": {
+      "hash": "54c84cb56928",
+      "target": ".claude/skills/fix-review/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/flow-dashboard/SKILL.md": {
+      "hash": "b1b0d9467f04",
+      "target": ".claude/skills/flow-dashboard/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/flow-metrics/SKILL.md": {
+      "hash": "0f434e31a2db",
+      "target": ".claude/skills/flow-metrics/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/flow-metrics/scripts/collect.sh": {
+      "hash": "2497b7be8e88",
+      "target": ".claude/skills/flow-metrics/scripts/collect.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/lang-go.sh": {
+      "hash": "a9abe9785352",
+      "target": ".claude/skills/flow-metrics/scripts/lang-go.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/lang-py.sh": {
+      "hash": "3b518f17c0db",
+      "target": ".claude/skills/flow-metrics/scripts/lang-py.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/lang-rust.sh": {
+      "hash": "c42527cd3134",
+      "target": ".claude/skills/flow-metrics/scripts/lang-rust.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/lang-ts.sh": {
+      "hash": "39223cd4bda8",
+      "target": ".claude/skills/flow-metrics/scripts/lang-ts.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/setup.sh": {
+      "hash": "24ba3eca88e7",
+      "target": ".claude/skills/flow-metrics/scripts/setup.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-review-loop/SKILL.md": {
+      "hash": "54fb3b3fb204",
+      "target": ".claude/agents/flow-review-loop.md",
+      "transform": "agent-transform"
+    },
+    "_generated/flow-review-loop-wrapper": {
+      "hash": "5265de9b9bcc",
+      "target": ".claude/skills/flow-review-loop/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/git-diff/SKILL.md": {
+      "hash": "ac09d0f8d843",
+      "target": ".claude/skills/git-diff/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/incremental-review/SKILL.md": {
+      "hash": "256701c90ed9",
+      "target": ".claude/agents/incremental-review.md",
+      "transform": "agent-transform"
+    },
+    "_generated/incremental-review-wrapper": {
+      "hash": "d9d438921639",
+      "target": ".claude/skills/incremental-review/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/incremental-security/SKILL.md": {
+      "hash": "52e4269eb01e",
+      "target": ".claude/agents/incremental-security.md",
+      "transform": "agent-transform"
+    },
+    "_generated/incremental-security-wrapper": {
+      "hash": "2c7aa993d28a",
+      "target": ".claude/skills/incremental-security/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/linear-check/SKILL.md": {
+      "hash": "5e21d2be4a15",
+      "target": ".claude/skills/linear-check/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/load-rules/SKILL.md": {
+      "hash": "a22fa851f559",
+      "target": ".claude/skills/load-rules/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/map-linear/SKILL.md": {
+      "hash": "f574a2bed971",
+      "target": ".claude/skills/map-linear/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/mark-task-done/SKILL.md": {
+      "hash": "d1a4654d4940",
+      "target": ".claude/skills/mark-task-done/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-branch/SKILL.md": {
+      "hash": "933c9dbf323a",
+      "target": ".claude/skills/new-branch/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-commit/SKILL.md": {
+      "hash": "0f52b11087bb",
+      "target": ".claude/agents/new-commit.md",
+      "transform": "agent-transform"
+    },
+    "_generated/new-commit-wrapper": {
+      "hash": "913fecc4d134",
+      "target": ".claude/skills/new-commit/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/new-linear/SKILL.md": {
+      "hash": "0ce9be93f5d2",
+      "target": ".claude/skills/new-linear/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-pr/SKILL.md": {
+      "hash": "b47033466df1",
+      "target": ".claude/skills/new-pr/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-prd/SKILL.md": {
+      "hash": "63fccf1e47eb",
+      "target": ".claude/skills/new-prd/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-release/SKILL.md": {
+      "hash": "d4ae6eac4d4c",
+      "target": ".claude/skills/new-release/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-review/SKILL.md": {
+      "hash": "8f67286dbaf5",
+      "target": ".claude/agents/new-review.md",
+      "transform": "agent-transform"
+    },
+    "_generated/new-review-wrapper": {
+      "hash": "f7186895949a",
+      "target": ".claude/skills/new-review/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/new-review/scripts/render-rules-table.sh": {
+      "hash": "9ca6b5696b4c",
+      "target": ".claude/skills/new-review/scripts/render-rules-table.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/SKILL.md": {
+      "hash": "512c9784c575",
+      "target": ".claude/skills/new-rules/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-rules/rules/commits.md": {
+      "hash": "a9555a3f02fd",
+      "target": ".claude/skills/new-rules/rules/commits.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/rules/go.md": {
+      "hash": "dd844a785c47",
+      "target": ".claude/skills/new-rules/rules/go.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/rules/good-practices.md": {
+      "hash": "4f549a23401b",
+      "target": ".claude/skills/new-rules/rules/good-practices.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/rules/python.md": {
+      "hash": "7dcf53723c81",
+      "target": ".claude/skills/new-rules/rules/python.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/rules/trpc.md": {
+      "hash": "eb99030e8f0f",
+      "target": ".claude/skills/new-rules/rules/trpc.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/rules/typescript.md": {
+      "hash": "e09edc509ef4",
+      "target": ".claude/skills/new-rules/rules/typescript.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-tasks/SKILL.md": {
+      "hash": "18022c159639",
+      "target": ".claude/skills/new-tasks/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-version/SKILL.md": {
+      "hash": "966efa0f1114",
+      "target": ".claude/skills/new-version/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/new-workflow/SKILL.md": {
+      "hash": "b78f693942bc",
+      "target": ".claude/skills/new-workflow/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/optimize/SKILL.md": {
+      "hash": "82995b516d30",
+      "target": ".claude/skills/optimize/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/preflight/SKILL.md": {
+      "hash": "c1cc52c4decb",
+      "target": ".claude/skills/preflight/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/refactor/SKILL.md": {
+      "hash": "c56d2c88a5d6",
+      "target": ".claude/skills/refactor/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/review-code/SKILL.md": {
+      "hash": "54dda07369b0",
+      "target": ".claude/agents/review-code.md",
+      "transform": "agent-transform"
+    },
+    "_generated/review-code-wrapper": {
+      "hash": "de382c0e2996",
+      "target": ".claude/skills/review-code/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/run-task/SKILL.md": {
+      "hash": "2812e27365ca",
+      "target": ".claude/agents/run-task.md",
+      "transform": "agent-transform"
+    },
+    "_generated/run-task-wrapper": {
+      "hash": "1d7337aa209b",
+      "target": ".claude/skills/run-task/SKILL.md",
+      "transform": "generated-wrapper"
+    },
+    ".agents/skills/security-audit/SKILL.md": {
+      "hash": "e13f36f9affe",
+      "target": ".claude/skills/security-audit/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/summary/SKILL.md": {
+      "hash": "5d6fb7742519",
+      "target": ".claude/skills/summary/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/task-2-branch/SKILL.md": {
+      "hash": "c9767d85835b",
+      "target": ".claude/skills/task-2-branch/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/validate/SKILL.md": {
+      "hash": "c235926082fc",
+      "target": ".claude/skills/validate/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/verify/SKILL.md": {
+      "hash": "0a95298dccb4",
+      "target": ".claude/skills/verify/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/verify-rules/SKILL.md": {
+      "hash": "b2736a7b13cd",
+      "target": ".claude/skills/verify-rules/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/verify-rules/scripts/resolve-dev.sh": {
+      "hash": "8c62aab06cbc",
+      "target": ".claude/skills/verify-rules/scripts/resolve-dev.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-rules/scripts/resolve-paths.sh": {
+      "hash": "56a7a9454183",
+      "target": ".claude/skills/verify-rules/scripts/resolve-paths.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-rules/scripts/validate-fast.sh": {
+      "hash": "d8a487eab4a4",
+      "target": ".claude/skills/verify-rules/scripts/validate-fast.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-rules/scripts/verify.py": {
+      "hash": "7214d6e0517c",
+      "target": ".claude/skills/verify-rules/scripts/verify.py",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-rules/scripts/verify.sh": {
+      "hash": "c536ce732b4f",
+      "target": ".claude/skills/verify-rules/scripts/verify.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-task/SKILL.md": {
+      "hash": "e66a2525e62c",
+      "target": ".claude/skills/verify-task/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/scripts/applicable-rules.sh": {
+      "hash": "858318802c7a",
+      "target": ".claude/scripts/applicable-rules.sh",
+      "transform": "script-sync"
+    },
+    ".agents/scripts/install-global.sh": {
+      "hash": "352fe012c2ca",
+      "target": ".claude/scripts/install-global.sh",
+      "transform": "script-sync"
+    },
+    ".agents/scripts/new-review-counter.sh": {
+      "hash": "b30d070dc58a",
+      "target": ".claude/scripts/new-review-counter.sh",
+      "transform": "script-sync"
+    },
+    ".agents/scripts/statusline.sh": {
+      "hash": "c164edee36f4",
+      "target": ".claude/scripts/statusline.sh",
+      "transform": "script-sync"
+    },
+    ".agents/scripts/usage.sh": {
+      "hash": "0786f8001a44",
+      "target": ".claude/scripts/usage.sh",
+      "transform": "script-sync"
+    },
+    ".agents/hooks/hooks.toml": {
+      "hash": "179cc1b1f70b",
+      "target": ".claude/settings.json",
+      "transform": "hooks-claude"
+    },
+    ".agents/skills/git-diff/scripts/run.sh": {
+      "hash": "784a0119ee3d",
+      "target": ".claude/skills/git-diff/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/preflight/scripts/run.sh": {
+      "hash": "9145bb677d00",
+      "target": ".claude/skills/preflight/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/task-2-branch/scripts/run.sh": {
+      "hash": "2a84ec05fb3e",
+      "target": ".claude/skills/task-2-branch/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/find-task/scripts/run.sh": {
+      "hash": "7a3202b5551f",
+      "target": ".claude/skills/find-task/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/mark-task-done/scripts/run.sh": {
+      "hash": "8d13f8633d43",
+      "target": ".claude/skills/mark-task-done/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/summary/scripts/run.sh": {
+      "hash": "bba3547d5ae9",
+      "target": ".claude/skills/summary/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/_rules/project-agent-runner.md": {
+      "hash": "0ac37611c292",
+      "target": ".claude/skills/_rules/project-agent-runner.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/new-rules/rules/rust.md": {
+      "hash": "11e3e1a02862",
+      "target": ".claude/skills/new-rules/rules/rust.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/_shared/parse-mode.sh": {
+      "hash": "db83fff77213",
+      "target": ".claude/skills/_shared/parse-mode.sh",
+      "transform": "script-sync"
+    },
+    ".agents/skills/_rules/skill-authoring.md": {
+      "hash": "33692cdcba6a",
+      "target": ".claude/skills/_rules/skill-authoring.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/new-review/scripts/playbook.md": {
+      "hash": "7d1dbec2401c",
+      "target": ".claude/skills/new-review/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-review/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-review/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/SCHEMA.md": {
+      "hash": "97b07310245f",
+      "target": ".claude/skills/flow-metrics/scripts/SCHEMA.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-rules/scripts/RULES-DSL.md": {
+      "hash": "98872fbaab70",
+      "target": ".claude/skills/verify-rules/scripts/RULES-DSL.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/fix-review/scripts/playbook.md": {
+      "hash": "6156c4a3ad64",
+      "target": ".claude/skills/fix-review/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/fix-review/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/fix-review/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-review-loop/scripts/playbook.md": {
+      "hash": "490bd38cdaf9",
+      "target": ".claude/skills/flow-review-loop/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-review-loop/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/flow-review-loop/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/incremental-review/scripts/playbook.md": {
+      "hash": "82e8730a41a7",
+      "target": ".claude/skills/incremental-review/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/incremental-review/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/incremental-review/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/incremental-security/scripts/playbook.md": {
+      "hash": "764345063715",
+      "target": ".claude/skills/incremental-security/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/incremental-security/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/incremental-security/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/review-code/scripts/playbook.md": {
+      "hash": "2b7547424487",
+      "target": ".claude/skills/review-code/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/review-code/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/review-code/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/security-audit/scripts/playbook.md": {
+      "hash": "4e22f92d1624",
+      "target": ".claude/skills/security-audit/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/security-audit/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/security-audit/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/check-phase/scripts/playbook.md": {
+      "hash": "324e6ea1d7b2",
+      "target": ".claude/skills/check-phase/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/check-phase/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/check-phase/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/cleanup/scripts/playbook.md": {
+      "hash": "ac4792717343",
+      "target": ".claude/skills/cleanup/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/cleanup/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/cleanup/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/commit-interactive/scripts/playbook.md": {
+      "hash": "5f3328c382a5",
+      "target": ".claude/skills/commit-interactive/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/commit-interactive/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/commit-interactive/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/commit-workflow/scripts/playbook.md": {
+      "hash": "862ca05a9866",
+      "target": ".claude/skills/commit-workflow/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/commit-workflow/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/commit-workflow/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/discover-tests/scripts/playbook.md": {
+      "hash": "82ee6500ab91",
+      "target": ".claude/skills/discover-tests/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/discover-tests/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/discover-tests/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/do-development/scripts/playbook.md": {
+      "hash": "631463868dc3",
+      "target": ".claude/skills/do-development/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/do-development/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/do-development/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/do-task/scripts/playbook.md": {
+      "hash": "8ac81b56a1c4",
+      "target": ".claude/skills/do-task/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/do-task/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/do-task/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-dashboard/scripts/playbook.md": {
+      "hash": "a072924d7d4d",
+      "target": ".claude/skills/flow-dashboard/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-dashboard/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/flow-dashboard/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/linear-check/scripts/playbook.md": {
+      "hash": "cace081b192a",
+      "target": ".claude/skills/linear-check/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/linear-check/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/linear-check/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/load-rules/scripts/playbook.md": {
+      "hash": "6fd19375b04a",
+      "target": ".claude/skills/load-rules/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/load-rules/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/load-rules/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/map-linear/scripts/playbook.md": {
+      "hash": "b1fdc7392acc",
+      "target": ".claude/skills/map-linear/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/map-linear/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/map-linear/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-branch/scripts/playbook.md": {
+      "hash": "40c8267e0996",
+      "target": ".claude/skills/new-branch/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-branch/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-branch/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-commit/scripts/playbook.md": {
+      "hash": "ad80c0577eb3",
+      "target": ".claude/skills/new-commit/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-commit/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-commit/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-linear/scripts/playbook.md": {
+      "hash": "654e794812e6",
+      "target": ".claude/skills/new-linear/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-linear/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-linear/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-pr/scripts/playbook.md": {
+      "hash": "d474dbc3d648",
+      "target": ".claude/skills/new-pr/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-pr/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-pr/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-prd/scripts/playbook.md": {
+      "hash": "8ac427e96611",
+      "target": ".claude/skills/new-prd/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-prd/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-prd/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-release/scripts/playbook.md": {
+      "hash": "c663e66064d6",
+      "target": ".claude/skills/new-release/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-release/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-release/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/scripts/playbook.md": {
+      "hash": "7f3ae2ce474e",
+      "target": ".claude/skills/new-rules/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-rules/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-rules/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-tasks/scripts/playbook.md": {
+      "hash": "127a8db2a9e5",
+      "target": ".claude/skills/new-tasks/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-tasks/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-tasks/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-version/scripts/playbook.md": {
+      "hash": "301decb73578",
+      "target": ".claude/skills/new-version/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-version/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-version/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-workflow/scripts/playbook.md": {
+      "hash": "919bb36941c2",
+      "target": ".claude/skills/new-workflow/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/new-workflow/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/new-workflow/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/optimize/scripts/playbook.md": {
+      "hash": "cc2d5fabd602",
+      "target": ".claude/skills/optimize/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/optimize/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/optimize/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/refactor/scripts/playbook.md": {
+      "hash": "0ab232d238ff",
+      "target": ".claude/skills/refactor/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/refactor/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/refactor/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/run-task/scripts/playbook.md": {
+      "hash": "4dd1bc4f8e4b",
+      "target": ".claude/skills/run-task/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/run-task/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/run-task/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/validate/scripts/playbook.md": {
+      "hash": "33f89a175a6c",
+      "target": ".claude/skills/validate/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/validate/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/validate/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify/scripts/playbook.md": {
+      "hash": "0d5a2f5cce9e",
+      "target": ".claude/skills/verify/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/verify/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-task/scripts/playbook.md": {
+      "hash": "ff6230a4ae95",
+      "target": ".claude/skills/verify-task/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-task/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/verify-task/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/_rules/project-manhattan.md": {
+      "hash": "86fab1a0403e",
+      "target": ".claude/skills/_rules/project-manhattan.md",
+      "transform": "add-frontmatter"
+    },
+    ".agents/skills/flow-metrics/scripts/load-config.sh": {
+      "hash": "1d3fa49aab36",
+      "target": ".claude/skills/flow-metrics/scripts/load-config.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-metrics/scripts/scaffold-mutation.sh": {
+      "hash": "67b960521d60",
+      "target": ".claude/skills/flow-metrics/scripts/scaffold-mutation.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-doctor/SKILL.md": {
+      "hash": "d690158db821",
+      "target": ".claude/skills/flow-doctor/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/flow-doctor/scripts/run.sh": {
+      "hash": "7b07a1aa2606",
+      "target": ".claude/skills/flow-doctor/scripts/run.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-init/SKILL.md": {
+      "hash": "08aff38d8637",
+      "target": ".claude/skills/flow-init/SKILL.md",
+      "transform": "skill-transform"
+    },
+    ".agents/skills/flow-init/scripts/install-deps.sh": {
+      "hash": "d6372f44d2f6",
+      "target": ".claude/skills/flow-init/scripts/install-deps.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-init/scripts/playbook.md": {
+      "hash": "d8407b77d0eb",
+      "target": ".claude/skills/flow-init/scripts/playbook.md",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-init/scripts/playbook.sh": {
+      "hash": "36ce96ad3f4d",
+      "target": ".claude/skills/flow-init/scripts/playbook.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-init/scripts/scaffold-stryker.sh": {
+      "hash": "2aaa46130267",
+      "target": ".claude/skills/flow-init/scripts/scaffold-stryker.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-init/scripts/update-gitignore.sh": {
+      "hash": "7cbea43531b7",
+      "target": ".claude/skills/flow-init/scripts/update-gitignore.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/flow-init/scripts/update-package-json.sh": {
+      "hash": "508f25705d10",
+      "target": ".claude/skills/flow-init/scripts/update-package-json.sh",
+      "transform": "path-update"
+    },
+    ".agents/skills/verify-rules/scripts/verify-stop.sh": {
+      "hash": "c8aa76c6797c",
+      "target": ".claude/skills/verify-rules/scripts/verify-stop.sh",
+      "transform": "path-update"
+    }
+  }
+}

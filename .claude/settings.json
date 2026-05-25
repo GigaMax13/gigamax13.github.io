@@ -1,0 +1,62 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "_sh=\"${AGENTS_SKILLS_HOME:-\"${CLAUDE_PROJECT_DIR:-.}\"/.claude}\"; [ -f \"$_sh/skills/verify-rules/scripts/verify.sh\" ] || _sh=\"$HOME/.claude\"; bash \"$_sh\"/skills/verify-rules/scripts/verify.sh --touched >/dev/null 2>&1 || true",
+            "timeout": 30
+          }
+        ],
+        "_managed_by_sync": "tools/sync (do not edit by hand)",
+        "_name": "verify-rules-post-edit"
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "_sh=\"${AGENTS_SKILLS_HOME:-\"${CLAUDE_PROJECT_DIR:-.}\"/.claude}\"; [ -f \"$_sh/skills/verify-rules/scripts/verify-stop.sh\" ] || _sh=\"$HOME/.claude\"; bash \"$_sh\"/skills/verify-rules/scripts/verify-stop.sh; exit $?",
+            "timeout": 60
+          }
+        ],
+        "_managed_by_sync": "tools/sync (do not edit by hand)",
+        "_name": "verify-rules-stop"
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "_sh=\"${AGENTS_SKILLS_HOME:-\"${CLAUDE_PROJECT_DIR:-.}\"/.claude}\"; [ -f \"$_sh/skills/verify-rules/scripts/validate-fast.sh\" ] || _sh=\"$HOME/.claude\"; bash \"$_sh\"/skills/verify-rules/scripts/validate-fast.sh; exit $?",
+            "timeout": 180
+          }
+        ],
+        "_managed_by_sync": "tools/sync (do not edit by hand)",
+        "_name": "validate-fast-stop"
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "_sh=\"${AGENTS_SKILLS_HOME:-\"${CLAUDE_PROJECT_DIR:-.}\"/.claude}\"; [ -f \"$_sh/scripts/new-review-counter.sh\" ] || _sh=\"$HOME/.claude\"; bash \"$_sh\"/scripts/new-review-counter.sh update",
+            "timeout": 5
+          }
+        ],
+        "_managed_by_sync": "tools/sync (do not edit by hand)",
+        "_name": "new-review-counter"
+      }
+    ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "_sh=\"${AGENTS_SKILLS_HOME:-\"${CLAUDE_PROJECT_DIR:-.}\"/.claude}\"; [ -f \"$_sh/scripts/statusline.sh\" ] || _sh=\"$HOME/.claude\"; bash \"$_sh/scripts/statusline.sh\""
+  }
+}
