@@ -2,7 +2,7 @@
 
 **Location:** Taquara, Rio Grande do Sul - Brazil
 
-Senior Software Engineer with over 19 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
+Senior Software Engineer with over 21 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
@@ -81,7 +81,7 @@ Developed back-end systems using PHP and front-end interactive features with jQu
 
 <h3 id="self-employed">Self-Employed <span>Porto Alegre, Brazil — Freelance Web Developer</span></h3>
 
-**JAN 2007 - APR 2011**  
+**JAN 2005 - APR 2011**  
 Built custom back-end solutions using PHP and crafted responsive front-end designs with JQuery and Bootstrap. Delivered comprehensive web applications for diverse clients, focusing on accessibility, functionality, and user-friendly designs.
 
 ---
@@ -249,9 +249,9 @@ In this period, I contributed to numerous software projects across diverse indus
 <div>
 <h2>Technical Skills</h2>
 <ul>
-<li><strong>JavaScript</strong> - 19 years</li>
-<li><strong>HTML</strong> - 19 years</li>
-<li><strong>CSS</strong> - 19 years</li>
+<li><strong>JavaScript</strong> - 21 years</li>
+<li><strong>HTML</strong> - 21 years</li>
+<li><strong>CSS</strong> - 21 years</li>
 <li><strong>SASS / LESS</strong> - 16 years</li>
 <li><strong>TypeScript</strong> - 14 years</li>
 <li><strong>NodeJS</strong> - 12 years</li>
