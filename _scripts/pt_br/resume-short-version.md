@@ -2,7 +2,7 @@
 
 **Localização:** Taquara, Rio Grande do Sul - Brasil
 
-Engenheiro de Software Sênior com mais de 19 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiência em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Habilidade com frameworks modernos, testes e tecnologias de nuvem, com compromisso com aprendizado contínuo e excelência técnica.
+Engenheiro de Software Sênior com mais de 21 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiência em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Habilidade com frameworks modernos, testes e tecnologias de nuvem, com compromisso com aprendizado contínuo e excelência técnica.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |

@@ -2,7 +2,7 @@
 
 **Localização:** Taquara, Rio Grande do Sul - Brasil
 
-Engenheiro de Software Sênior com mais de 19 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiência em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Habilidade com frameworks modernos, testes e tecnologias de nuvem, com compromisso com aprendizado contínuo e excelência técnica.
+Engenheiro de Software Sênior com mais de 21 anos de experiência em JavaScript, TypeScript, NodeJS e React, especializado em desenvolvimento frontend e full-stack. Experiência em equipes ágeis, liderança e entrega de soluções robustas em diversos setores. Habilidade com frameworks modernos, testes e tecnologias de nuvem, com compromisso com aprendizado contínuo e excelência técnica.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
@@ -81,7 +81,7 @@ Desenvolvi sistemas back-end utilizando PHP e recursos interativos no front-end 
 
 <h3 id="self-employed">Autônomo <span>Porto Alegre, Brasil — Desenvolvedor Web Freelancer</span></h3>
 
-**JAN 2007 - ABR 2011**  
+**JAN 2005 - ABR 2011**  
 Construí soluções back-end personalizadas utilizando PHP e criei designs front-end responsivos com jQuery e Bootstrap. Entreguei aplicações web abrangentes para diversos clientes, focando em acessibilidade, funcionalidade e designs intuitivos.
 
 ---
@@ -249,9 +249,9 @@ Neste período, contribui para inúmeros projetos de software em diversos setore
 <div>
 <h2>Habilidades Técnicas</h2>
 <ul>
-<li><strong>JavaScript</strong> - 19 anos</li>
-<li><strong>HTML</strong> - 19 anos</li>
-<li><strong>CSS</strong> - 19 anos</li>
+<li><strong>JavaScript</strong> - 21 anos</li>
+<li><strong>HTML</strong> - 21 anos</li>
+<li><strong>CSS</strong> - 21 anos</li>
 <li><strong>SASS / LESS</strong> - 16 anos</li>
 <li><strong>TypeScript</strong> - 14 anos</li>
 <li><strong>NodeJS</strong> - 12 anos</li>

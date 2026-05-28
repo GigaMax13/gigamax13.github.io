@@ -2,7 +2,7 @@
 
 **Location:** Taquara, Rio Grande do Sul - Brazil
 
-Senior Software Engineer with over 19 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
+Senior Software Engineer with over 21 years in JavaScript, TypeScript, NodeJS, and React, specializing in frontend and full-stack development. Experienced in agile teams, leadership, and delivering strong solutions across industries. Skilled in modern frameworks, testing, and cloud tech, with a commitment to continuous learning and technical excellence.
 
 <a href="https://www.linkedin.com/in/maximilianodallaporta/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/GigaMax13/" target="_blank">GitHub</a> |
